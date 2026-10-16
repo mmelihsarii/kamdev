@@ -1,0 +1,2961 @@
+{
+  "surum": 1,
+  "ayarlar": {
+    "site": {
+      "ad": "KAM",
+      "tamAd": "KAM Yazılım Stüdyosu",
+      "adres": "https://kamdevops.com",
+      "eposta": "merhaba@kamdevops.com",
+      "konum": "Casaba Modern, Hoşnudiye, 770 Sokak No 4, 26130 Tepebaşı, Eskişehir",
+      "aciklama": "KAM, kurumsal web siteleri, e ticaret altyapıları ve iOS ile Android uygulamaları geliştiren bağımsız bir yazılım stüdyosudur. Sanal POS entegrasyonu, yönetim paneli ve teknik bakım dahil, uçtan uca teslim.",
+      "kisaAciklama": "Kurumsal web, e ticaret ve mobil uygulama. Tasarımdan yayına, tek elden.",
+      "dil": "tr-TR",
+      "fiyatGoster": false
+    },
+    "hero": {
+      "baslikUst": "İşinizi dijitalde büyütüyoruz.",
+      "aciklama": "Web sitesi, online mağaza, mobil uygulama ve işinize özel yazılım yapıyoruz. Tasarımdan yayına tek ekip çalışır; kodlar ve alan adı size ait olur.",
+      "birincilDugme": "Teklif alın",
+      "ikincilDugme": "İşlerimizi inceleyin"
+    },
+    "bolumler": {
+      "logoSeridi": {
+        "etiket": "Kullandığımız",
+        "baslik": "teknoloji",
+        "aciklama": ""
+      },
+      "blog": {
+        "etiket": "Blog",
+        "baslik": "Blogdan",
+        "vurgu": "",
+        "aciklama": "Web sitesi fiyatları, sanal POS, mobil uygulama maliyeti ve yapay zekâ aramaları. Satış dili yok, kendi projelerimizden çıkan bilgiler."
+      },
+      "hizmetler": {
+        "etiket": "Hizmetler",
+        "baslik": "Neler sunuyoruz",
+        "aciklama": ""
+      },
+      "isler": {
+        "etiket": "İşlerimiz",
+        "baslik": "Öne çıkan işler",
+        "aciklama": "Hepsi gerçek müşteriler için yapıldı ve şu an kullanımda. Web, e ticaret ve mobil alanındaki seçili projelerimiz."
+      },
+      "teknolojiler": {
+        "etiket": "Teknoloji",
+        "baslik": "Üretimde kullandığımız sistemler",
+        "aciklama": "Projenin yüküne ve büyüme hedefine göre doğru araçları seçiyoruz."
+      },
+      "vitrin": {
+        "etiket": "Dijital deneyimler",
+        "baslik": "",
+        "aciklama": "",
+        "altBaslik": "Arayüzü sadece tasarlamıyor, hareketlendiriyoruz."
+      },
+      "surec": {
+        "etiket": "Süreç",
+        "baslik": "Nasıl çalışıyoruz",
+        "aciklama": "Bir projenin ilk konuşmadan yayından sonraki ölçüme kadar nasıl ilerlediği."
+      },
+      "ilkeler": {
+        "etiket": "Stüdyo",
+        "baslik": "Şeffaflık üzerine kurulu",
+        "aciklama": "Küçük bir stüdyo olmanın avantajı, projenizi baştan sona aynı kişinin yürütmesi. Kararların gerekçesini doğrudan duyarsınız."
+      },
+      "sss": {
+        "etiket": "SSS",
+        "baslik": "Sık sorulanlar",
+        "aciklama": "Fiyat, süre, ödeme ve sahiplik hakkında en çok sorulanlar."
+      },
+      "iletisim": {
+        "etiket": "İletişim",
+        "baslik": "Bir fikriniz",
+        "vurgu": "var mı?",
+        "aciklama": "Ne yapmak istediğinizi anlatın, kapsamı, süresi ve fiyatı yazılı olarak gelsin.",
+        "konular": [
+          "Web sitesi",
+          "E ticaret",
+          "Mobil uygulama",
+          "Bakım ve destek"
+        ]
+      },
+      "teklif": {
+        "etiket": "",
+        "baslik": "Projenizi konuşalım.",
+        "aciklama": "Ne yapmak istediğinizi anlatın, kapsamı, süresi ve fiyatı yazılı olarak gelsin.",
+        "kayanYazilar": [
+          "Kurumsal web",
+          "E ticaret",
+          "Mobil uygulama",
+          "Sanal POS",
+          "Bayi sistemi",
+          "Yönetim paneli",
+          "SEO",
+          "GEO"
+        ]
+      },
+      "blogSayfasi": {
+        "etiket": "Blog",
+        "baslik": "Web, e ticaret ve yazılım üzerine yazılar.",
+        "aciklama": "Web sitesi fiyatları, e ticaret kurulumu, sanal POS, mobil uygulama maliyeti ve yapay zekâ aramalarında görünmek. Satış dili yok, kendi projelerimizde öğrendiklerimiz var."
+      },
+      "islerSayfasi": {
+        "etiket": "İşlerimiz",
+        "baslik": "İşlerimiz",
+        "aciklama": "E ticaret, kurumsal yazılım ve mobil uygulama alanında yaptığımız işler. Her birinde neyi neden yaptığımızı anlattık."
+      },
+      "hizmetlerSayfasi": {
+        "etiket": "Hizmetler",
+        "baslik": "Hizmetler",
+        "aciklama": "Web sitesi, e ticaret, mobil uygulama ve ERP yazıyoruz. Yayından sonraki arama, reklam, sosyal medya ve teknik bakım işleri de bizde."
+      },
+      "surecSayfasi": {
+        "etiket": "",
+        "baslik": "Süreç boyunca",
+        "aciklama": "Teklif aşamasından yayına kadar neyin nerede olduğunu her an bilirsiniz.",
+        "kalemler": [
+          {
+            "baslik": "Yazılı teklif",
+            "aciklama": "Kapsam, teslim tarihi ve fiyat kalem kalem yazılır. İşe başlamadan neyin dahil olduğunu bilirsiniz."
+          },
+          {
+            "baslik": "Canlı ara sürüm",
+            "aciklama": "Geliştirme sırasında sitenin ya da uygulamanın ara sürümünü kendi bağlantısından açıp deneyebilirsiniz."
+          },
+          {
+            "baslik": "Müşteri paneli",
+            "aciklama": "Projenin hangi aşamada olduğunu, son güncellemeleri ve görselleri size açılan panelden takip edersiniz."
+          },
+          {
+            "baslik": "Tek muhatap",
+            "aciklama": "Baştan sona aynı kişiyle konuşursunuz. Sorularınız ekipler arasında kaybolmaz."
+          }
+        ],
+        "gerekenler": [
+          "Logo ve varsa marka renkleri",
+          "Sitede yer alacak metinler ve görseller; yoksa birlikte hazırlanır",
+          "Varsa alan adı ve hosting erişim bilgileri",
+          "Tasarım ve ara sürümlerde birkaç gün içinde geri bildirim"
+        ],
+        "sorular": [
+          {
+            "soru": "Tasarımda değişiklik isteyebilir miyim?",
+            "cevap": "Evet. Ana sayfa tasarımı onayınıza sunulur, istediğiniz düzeltmeler yapıldıktan sonra geliştirmeye geçilir. Geliştirme sırasında da ara sürüm üzerinden yorum yapabilirsiniz."
+          },
+          {
+            "soru": "Ödeme nasıl yapılıyor?",
+            "cevap": "Başlangıçta küçük bir ön ödeme alınır. Ödemenin büyük kısmı ana sayfa tasarımını görüp onayladıktan sonra yapılır."
+          },
+          {
+            "soru": "Projenin hangi aşamada olduğunu nasıl takip ederim?",
+            "cevap": "Proje başlarken size müşteri paneli açılır. Panelde aşamaları, son güncellemeleri ve görselleri görürsünüz."
+          },
+          {
+            "soru": "Yayından sonra ne oluyor?",
+            "cevap": "Alan adı, hosting ve kaynak kod sizin adınıza teslim edilir. Güncelleme, yedek ve güvenlik takibi aylık bakımla sürer."
+          }
+        ],
+        "olcme": {
+          "baslik": "Ölçme",
+          "metin": "Yayından sonra satışları, ziyaretleri ve hızı araçlarla ölçer, neyin işe yaradığını birlikte görürüz.",
+          "ogeler": [
+            "Google Analytics",
+            "Search Console",
+            "Google Ads",
+            "Meta",
+            "Hotjar",
+            "Sentry"
+          ]
+        }
+      }
+    },
+    "laptopKelimeleri": {
+      "on": "İster",
+      "kelimeler": [
+        "masaüstü sistem",
+        "web sitesi",
+        "mobil uygulama"
+      ]
+    },
+    "vitrinGorselleri": [
+      "/isler/kapaklar/zenomax-ozel-v2.webp",
+      "/isler/kapaklar/esnafm-ozel.webp",
+      "/isler/kapaklar/longevity-house-ozel.webp",
+      "/isler/kapaklar/goscore-ai-ozel.webp",
+      "/isler/kapaklar/gky-metal-ozel-v2.webp",
+      "/isler/kapaklar/parkshare-ozel.webp",
+      "/isler/kapaklar/cotas-ozel.webp",
+      "/isler/kapaklar/boo-score-ozel.webp",
+      "/isler/kapaklar/likya-grup-ozel.webp",
+      "/isler/kapaklar/tezgahim-ozel.webp",
+      "/isler/kapaklar/tepe-optik-ozel.webp",
+      "/isler/kapaklar/sahada-ozel.webp",
+      "/isler/kapaklar/fitcity-ozel.webp",
+      "/isler/kapaklar/imperra-ozel.webp",
+      "/isler/kapaklar/ku-etkinlik-ozel.webp",
+      "/isler/kapaklar/preuger-ozel.webp",
+      "/isler/kapaklar/conta-tesisat-ozel.webp"
+    ],
+    "teknolojiSecki": [
+      {
+        "baslik": "Yazılım ve mobil",
+        "renk": "#a78bfa",
+        "adlar": [
+          "React",
+          "Flutter",
+          "TypeScript",
+          "Laravel",
+          "PHP",
+          "Node.js",
+          "Next.js",
+          "WordPress"
+        ]
+      },
+      {
+        "baslik": "E ticaret ve ödeme",
+        "renk": "#f59e0b",
+        "adlar": [
+          "PayTR",
+          "iyzico",
+          "Trendyol",
+          "Hepsiburada",
+          "WooCommerce",
+          "Shopify",
+          "Visa",
+          "Mastercard"
+        ]
+      },
+      {
+        "baslik": "Veri ve bulut",
+        "renk": "#34d399",
+        "adlar": [
+          "Supabase",
+          "Firebase",
+          "PostgreSQL",
+          "MySQL",
+          "Cloudflare",
+          "Netlify",
+          "Vercel",
+          "Google Cloud"
+        ]
+      },
+      {
+        "baslik": "Ölçüm ve büyüme",
+        "renk": "#38bdf8",
+        "adlar": [
+          "Google Analytics",
+          "Search Console",
+          "Google Ads",
+          "Meta",
+          "Mikro Yazılım",
+          "WhatsApp",
+          "OpenAI",
+          "Semrush"
+        ]
+      }
+    ]
+  },
+  "projeler": [
+    {
+      "kimlik": "zenomax",
+      "yayinda": true,
+      "slug": "zenomax",
+      "ad": "Zenomax",
+      "konum": "İstanbul",
+      "ozet": "El aletleri toptan satış mağazası. Katalog ERP sisteminden aktarılıyor, fiyatlar liste fiyatı, kur ve KDV ile anlık hesaplanıyor. Bayiler kendi iskonto kademesini görüyor.",
+      "alan": "E ticaret",
+      "yil": "2026",
+      "etiketler": [
+        "React",
+        "PHP",
+        "Sanal POS",
+        "Bayi sistemi"
+      ],
+      "teknolojiler": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "PHP"
+      ],
+      "adres": "zenomaxelaletleri.com",
+      "video": "/isler/video/zenomax.mp4",
+      "vitrinRengi": "#f0a030",
+      "gorseller": [
+        "/isler/zenomax-katalog.jpg",
+        "/isler/zenomax.jpg"
+      ],
+      "rakamlar": [
+        {
+          "deger": "8.962",
+          "etiket": "ürün"
+        },
+        {
+          "deger": "22",
+          "etiket": "kategori"
+        },
+        {
+          "deger": "2",
+          "etiket": "depo"
+        }
+      ],
+      "yapilanlar": [
+        "ERP stok listesinden tek adımda ürün aktarımı",
+        "Liste fiyatı, kur ve KDV ile anlık fiyat hesabı",
+        "Bayi hesapları ve kademeli iskonto",
+        "İki depo için ayrı stok takibi",
+        "Fiyatı belirsiz ürünlerde fiyat sorunuz akışı",
+        "Ürün, sipariş ve bayi yönetim paneli"
+      ],
+      "icerik": "Zenomax, el aletleri ve hırdavat ürünlerini bayilere ve son kullanıcıya satan bir toptancı. Ürün kataloğu yıllardır kullandıkları ERP sisteminde duruyordu ve fiyatların bir kısmı dövize bağlıydı. Amaç, bu kataloğu tek tek elle girmeden internete taşımak ve bayilerin kendi fiyatlarını görebildiği bir sipariş sistemi kurmaktı.\n\n## Katalog ERP sisteminden geliyor\n\nERP sisteminden alınan stok listesi tek adımda mağazaya aktarılıyor. 8.962 ürün 22 kategoriye yerleşti. Liste değiştiğinde aynı aktarım tekrar çalışıyor, kimse ürünleri elle güncellemiyor.\n\n## Fiyat kayda yazılmıyor, hesaplanıyor\n\nÜrünün fiyatı veritabanında sabit durmuyor. Liste fiyatı, günün kuru ve KDV ile sayfa açıldığı anda hesaplanıyor. Kur değişince bütün katalog kendiliğinden güncelleniyor. Fiyatı belli olmayan ürünlerde fiyat yerine fiyat sorunuz düğmesi çıkıyor.\n\n## Her bayiye kendi fiyatı\n\nBayi hesapları panelden açılıyor ve her bayi bir iskonto kademesine bağlanıyor. Bayi giriş yaptığında kataloğu kendi fiyatıyla görüyor. İki deponun stoğu ayrı takip ediliyor.",
+      "kapak": "/isler/kapaklar/zenomax-ozel-v2.webp",
+      "logo": "/guvenenler/zenomax.png"
+    },
+    {
+      "kimlik": "longevity-house",
+      "yayinda": true,
+      "slug": "longevity-house",
+      "yil": "2026",
+      "video": "/isler/video/longevity-house.mp4",
+      "vitrinRengi": "#2fb3a3",
+      "gorseller": [
+        "/isler/video/longevity-house.jpg"
+      ],
+      "ad": "Longevity House",
+      "konum": "İstanbul",
+      "alan": "Klinik sitesi",
+      "ozet": "Kardiyoloji temelli bir longevity kliniğinin sitesi. Üç dilde içerik, makalelerden oluşan bir akademi ve klinik ekibinin kendisinin yönettiği içerik paneli.",
+      "etiketler": [
+        "React",
+        "TypeScript",
+        "PHP",
+        "Üç dil"
+      ],
+      "teknolojiler": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Three.js",
+        "GSAP",
+        "PHP"
+      ],
+      "adres": "longevityhouse.com.tr",
+      "rakamlar": [
+        {
+          "deger": "66",
+          "etiket": "makale"
+        },
+        {
+          "deger": "6",
+          "etiket": "program"
+        },
+        {
+          "deger": "3",
+          "etiket": "dil"
+        }
+      ],
+      "yapilanlar": [
+        "Türkçe, İngilizce ve Almanca içerik",
+        "Kategori ve filtreli makale akademisi",
+        "Programlar, hizmetler ve testler için ayrı sayfalar",
+        "Klinik ekibinin kullandığı içerik paneli",
+        "Her kayıtta otomatik yedek",
+        "Doksan dokümandan aktarılan içerik"
+      ],
+      "icerik": "Longevity House, sağlıklı ve uzun yaşamı ölçüme dayalı programlarla ele alan kardiyoloji temelli bir klinik. Kliniğin elinde yıllar içinde yazılmış doksan dokümanlık bir içerik birikimi vardı ve bunun okunabilir, aranabilir bir siteye dönüşmesi gerekiyordu.\n\n## Dokümandan siteye\n\nWord dosyalarındaki yazılar otomatik olarak siteye aktarıldı, başlıklar ve notlar temizlendi. Bugün sitede 66 makale, 6 program, 4 hizmet ve 5 test bulunuyor. Makaleler kategoriye göre süzülüyor.\n\n## Üç dil, tek panel\n\nSite Türkçe, İngilizce ve Almanca yayında. Klinik ekibi makaleleri, programları ve sayfa görsellerini aynı panelden düzenliyor. Her kayıtta içeriğin bir yedeği alınıyor, yanlış bir değişiklik geri alınabiliyor.",
+      "adDili": "en",
+      "kapak": "/isler/kapaklar/longevity-house-ozel.webp",
+      "logo": "/guvenenler/longevity-house.png"
+    },
+    {
+      "kimlik": "gky-metal",
+      "yayinda": true,
+      "slug": "gky-metal",
+      "ad": "GKY Metal",
+      "konum": "Türkiye",
+      "ozet": "Alçıpan profil mağazası. Panelden yönetilen kayan vitrin, tarayıcı içinde görsel kırpma ve gerçek tahsilat yapan ödeme altyapısı.",
+      "alan": "E ticaret",
+      "yil": "2026",
+      "etiketler": [
+        "React",
+        "PayTR",
+        "Yönetim paneli"
+      ],
+      "teknolojiler": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Motion",
+        "PHP",
+        "PayTR"
+      ],
+      "adres": "gkymetal.com.tr",
+      "video": "/isler/video/gky-metal.mp4",
+      "vitrinRengi": "#2563eb",
+      "gorseller": [
+        "/isler/gkymetal.jpg"
+      ],
+      "yapilanlar": [
+        "Alçıpan profil ürünleri için online mağaza",
+        "PayTR ile kartlı ödeme ve canlı tahsilat",
+        "Panelden yönetilen kayan vitrin",
+        "Tarayıcı içinde görsel kırpma",
+        "Ürün ve sipariş yönetim paneli"
+      ],
+      "icerik": "GKY Metal, alçıpan profil ve tamamlayıcı ürünler satan bir firma. Müşterilerinin telefonla sipariş vermek yerine ürünleri görüp kartla ödeyebileceği bir mağaza istiyordu.\n\n## Gerçek tahsilat\n\nÖdemeler PayTR üzerinden alınıyor. Mağaza yayına alındıktan sonra ilk gerçek ödeme sorunsuz geçti. Sipariş, ödeme durumuyla birlikte panelde görünüyor.\n\n## Vitrini firma kendisi yönetiyor\n\nAna sayfadaki kayan vitrin panelden değiştiriliyor. Yüklenen görsel tarayıcının içinde kırpılıyor, böylece her görsel vitrine doğru oranda oturuyor ve ayrı bir programa gerek kalmıyor.",
+      "kapak": "/isler/kapaklar/gky-metal-ozel-v2.webp",
+      "logo": "/guvenenler/gky-metal.png"
+    },
+    {
+      "kimlik": "cotas",
+      "yayinda": true,
+      "slug": "cotas",
+      "yil": "2026",
+      "video": "/isler/video/cotas.mp4",
+      "vitrinRengi": "#d98a5f",
+      "gorseller": [
+        "/isler/video/cotas.jpg"
+      ],
+      "ad": "Cotas",
+      "konum": "Türkiye",
+      "alan": "E ticaret",
+      "ozet": "Kadın tayt ve spor giyim mağazası. İki ödeme altyapısı hazır, hangisinin çalışacağı panelden seçiliyor. Yorumlar yalnızca ürünü satın alan müşteriden geliyor.",
+      "etiketler": [
+        "React",
+        "PHP",
+        "iyzico",
+        "PayTR"
+      ],
+      "teknolojiler": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Motion",
+        "PHP",
+        "iyzico",
+        "PayTR",
+        "Trendyol"
+      ],
+      "adres": "cotass.com",
+      "yapilanlar": [
+        "Ürün, kategori, kupon ve stok yönetimi",
+        "PayTR ve iyzico entegrasyonu",
+        "Aktif ödeme sağlayıcısının panelden seçilmesi",
+        "Tutarın sunucuda hesaplandığı ödeme akışı",
+        "Satın alma şartlı ve onaylı müşteri yorumları",
+        "Mesafeli satış ve ön bilgilendirme sayfaları"
+      ],
+      "icerik": "Cotas, kadın tayt ve spor giyim ürünleri satan bir online mağaza. Ürünlerin hızlı bulunduğu, ödemenin güvenle alındığı ve mağaza sahibinin her şeyi tek panelden yönettiği bir yapı istendi.\n\n## İki ödeme altyapısı\n\nMağazada hem PayTR hem iyzico entegre. Hangisinin çalışacağı panelden tek tıkla seçiliyor, müşteri yalnızca aktif olanı görüyor. Sepet tutarı tarayıcıdan alınmıyor, sunucuda yeniden hesaplanıyor. Ödeme onayı gelince stok düşüyor.\n\n## Güvenilir yorumlar\n\nYorum yazmak için ürünü satın almış olmak gerekiyor. Her yorum önce panelde onaydan geçiyor, ürünün puanı yalnızca onaylı yorumlardan hesaplanıyor.",
+      "kapak": "/isler/kapaklar/cotas-ozel.webp"
+    },
+    {
+      "kimlik": "tepe-optik",
+      "yayinda": true,
+      "slug": "tepe-optik",
+      "yil": "2026",
+      "video": "/isler/video/tepe-optik.mp4",
+      "vitrinRengi": "#c8372d",
+      "gorseller": [
+        "/isler/video/tepe-optik.jpg"
+      ],
+      "ad": "Tepe Optik",
+      "konum": "Türkiye",
+      "alan": "E ticaret",
+      "ozet": "Gözlük ve güneş gözlüğü mağazası. Vitrin React ile hızlı açılıyor, ürün, marka ve kategori yönetimi Laravel üzerinde kurulan panelden yapılıyor.",
+      "etiketler": [
+        "React",
+        "Laravel",
+        "Filament",
+        "MySQL"
+      ],
+      "teknolojiler": [
+        "React",
+        "Vite",
+        "Tailwind CSS",
+        "Three.js",
+        "Laravel",
+        "Filament",
+        "PHP",
+        "MySQL"
+      ],
+      "adres": "tepeoptik.com.tr",
+      "yapilanlar": [
+        "Marka ve kategoriye göre ürün kataloğu",
+        "Laravel ve Filament ile yönetim paneli",
+        "Sipariş kayıtları",
+        "Vitrin için ayrı ve hızlı ön yüz",
+        "Ürün, marka ve kategori servisleri"
+      ],
+      "icerik": "Tepe Optik, gözlük ve güneş gözlüğü satan bir optik mağazası. Ürünlerin markaya göre gezildiği, sade ve hızlı bir vitrin istendi.\n\n## Vitrin ve panel ayrı\n\nZiyaretçinin gördüğü vitrin React ile yazıldı ve hızlı açılıyor. Ürün, marka, kategori ve sipariş yönetimi Laravel ve Filament ile kurulan panelde. İki taraf aynı veri servisini kullanıyor, panelde yapılan değişiklik vitrine hemen yansıyor.",
+      "kapak": "/isler/kapaklar/tepe-optik-ozel.webp",
+      "logo": "/guvenenler/tepe-optik.png"
+    },
+    {
+      "kimlik": "likya-grup",
+      "yayinda": true,
+      "slug": "likya-grup",
+      "ad": "LİKYA Grup",
+      "konum": "Antalya",
+      "ozet": "Antalya emlak portalı. Halka açık ilan sitesi ve danışmanların kullandığı bağımsız yönetim paneli, ortak bir veri katmanı üzerinde çalışıyor.",
+      "alan": "Emlak portalı",
+      "yil": "2026",
+      "etiketler": [
+        "React",
+        "Supabase",
+        "İlan yönetimi"
+      ],
+      "teknolojiler": [
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Supabase",
+        "PostgreSQL",
+        "Leaflet",
+        "OpenStreetMap"
+      ],
+      "adres": "likyainvest.com.tr",
+      "gorseller": [
+        "/isler/likya.jpg"
+      ],
+      "vitrinRengi": "#c9a24b",
+      "yapilanlar": [
+        "Ziyaretçiler için ilan sitesi",
+        "Danışmanlar için ayrı yönetim paneli",
+        "İlan, mahalle ve danışman yönetimi",
+        "İki uygulama için ortak veri katmanı"
+      ],
+      "icerik": "LİKYA Grup, Antalya merkezli bir emlak firması. İlanlarını kendi sitelerinde yayınlamak ve bütün portföyü tek yerden yönetmek istiyorlardı.\n\n## İki uygulama, tek veri\n\nZiyaretçilerin gördüğü ilan sitesi ile danışmanların kullandığı yönetim paneli ayrı uygulamalar olarak geliştirildi. İkisi de aynı veri katmanını kullanıyor. Panelde eklenen ilan sitede hemen yayına giriyor.\n\n## Danışman odaklı yönetim\n\nİlanlar mahalle ve danışman bilgisiyle birlikte tutuluyor. Portföy, fiyat ve ilan durumu panelden tek ekranda yönetiliyor.",
+      "kapak": "/isler/kapaklar/likya-grup-ozel.webp",
+      "logo": "/guvenenler/likya-grup.png"
+    },
+    {
+      "kimlik": "ku-etkinlik",
+      "yayinda": true,
+      "slug": "ku-etkinlik",
+      "yil": "2026",
+      "video": "/isler/video/ku-etkinlik.mp4",
+      "vitrinRengi": "#f2b705",
+      "gorseller": [
+        "/isler/video/ku-etkinlik.jpg"
+      ],
+      "ad": "KU Etkinlik",
+      "konum": "Türkiye",
+      "alan": "Kurumsal site",
+      "ozet": "Tente, bayrak, stand ve etkinlik ürünleri üreten firmanın sitesi. Görsel tabanlı basılı katalog okunup aranabilir bir ürün sitesine çevrildi.",
+      "etiketler": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Katalog"
+      ],
+      "teknolojiler": [
+        "HTML5",
+        "CSS",
+        "JavaScript"
+      ],
+      "adres": "kuetkinlik.com.tr",
+      "rakamlar": [
+        {
+          "deger": "27",
+          "etiket": "ürün"
+        },
+        {
+          "deger": "6",
+          "etiket": "kategori"
+        },
+        {
+          "deger": "54",
+          "etiket": "sayfalık katalog"
+        }
+      ],
+      "yapilanlar": [
+        "54 sayfalık basılı katalogdan ürün içeriği",
+        "Ürün arama, kategori ve ürün sayfaları",
+        "Sayfa sayfa gezilen online katalog",
+        "Uygulama fotoğrafları galerisi",
+        "Sosyal medya için 101 görsel ve indirme sitesi",
+        "Kurulum gerektirmeyen statik yapı"
+      ],
+      "icerik": "KU Etkinlik, gazebo tente, şişme tak, bayrak ve stand gibi etkinlik ürünleri üreten bir firma. Elindeki tek kaynak tamamen görsellerden oluşan 54 sayfalık bir katalogdu.\n\n## Katalogdan ürün sitesine\n\nKatalog sayfaları okunup 27 ürün ve 6 kategoriye ayrıldı. Her ürünün kendi sayfası var, ürünler isimle aranabiliyor. Katalogun kendisi de sitede sayfa sayfa geziliyor.\n\n## Sosyal medya görselleri\n\nSiteyle aynı dilde 51 hikâye ve 50 gönderi görseli hazırlandı. Firma bunları kendisi için kurulan bir arşiv sayfasından tek tek ya da topluca indiriyor.",
+      "kapak": "/isler/kapaklar/ku-etkinlik-ozel.webp"
+    },
+    {
+      "kimlik": "fitcity",
+      "yayinda": true,
+      "slug": "fitcity",
+      "ad": "FitCity",
+      "konum": "Türkiye",
+      "ozet": "Çok şubeli spor merkezi yönetim sistemi. Üyelik, ölçüm takibi, ders programı, eğitmen puantajı ve şube bazlı yetkilendirme tek çatı altında.",
+      "alan": "Kurumsal yazılım",
+      "yil": "2026",
+      "etiketler": [
+        "Laravel",
+        "Çok şube",
+        "Rol yönetimi"
+      ],
+      "teknolojiler": [
+        "Laravel",
+        "PHP",
+        "MySQL",
+        "Tailwind CSS",
+        "Alpine.js",
+        "Vite",
+        "Firebase",
+        "Mikro Yazılım"
+      ],
+      "rakamlar": [
+        {
+          "deger": "288",
+          "etiket": "otomatik test"
+        }
+      ],
+      "yapilanlar": [
+        "Üyelik, dondurma ve yenileme akışları",
+        "Vücut analiz cihazlarından ölçüm aktarımı",
+        "Ders programı ve QR kodla özel ders onayı",
+        "Eğitmen puantajı ve üye puanlaması",
+        "Şube bazlı yetkilendirme ve rol yönetimi",
+        "Üyeler için ayrı uygulama"
+      ],
+      "icerik": "FitCity, birden fazla şubesi olan bir spor merkezi. Üyelik, ölçüm, ders ve eğitmen takibi farklı tablolarda ve kâğıtlarda yürüyordu. Hepsini tek bir sistemde toplamak gerekiyordu.\n\n## Her rol kendi ekranında\n\nYönetici, şube müdürü, eğitmen ve üye sisteme kendi yetkisiyle giriyor. Şube açma, kullanıcı tanımlama ve yetki verme merkezden yapılıyor.\n\n## Ölçüm cihazından doğrudan veri\n\nVücut analiz cihazlarından alınan ölçümler sisteme aktarılıyor. Üye gelişimini grafikle takip ediyor, eğitmen programı buna göre düzenliyor.\n\n## Ders ve puantaj\n\nGrup dersleri ve özel dersler programdan yönetiliyor, özel ders QR kodla onaylanıyor. Eğitmen puantajı bu kayıtlardan çıkıyor. Üyeler de eğitmenlerini ve kulübü puanlayabiliyor.",
+      "adDili": "en",
+      "video": "/isler/video/fitcity.mp4",
+      "vitrinRengi": "#b5d334",
+      "gorseller": [
+        "/isler/video/fitcity.jpg"
+      ],
+      "kapak": "/isler/kapaklar/fitcity-ozel.webp",
+      "logo": "/guvenenler/fitcity.png"
+    },
+    {
+      "kimlik": "esnafm",
+      "yayinda": true,
+      "slug": "esnafm",
+      "ad": "EsnafM",
+      "konum": "Türkiye",
+      "ozet": "Esnaf pazaryeri uygulaması. Dört abonelik paketi, mağaza içi satın alma, şikâyet ve moderasyon akışı. iOS ve Android için tek kod tabanından geliştirildi.",
+      "alan": "Mobil uygulama",
+      "yil": "2026",
+      "etiketler": [
+        "Flutter",
+        "Supabase",
+        "Abonelik"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Supabase",
+        "PostgreSQL",
+        "TypeScript",
+        "Firebase",
+        "OpenStreetMap",
+        "Apple",
+        "Android"
+      ],
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/esnafm-ana.jpg",
+        "/isler/esnafm.jpg"
+      ],
+      "vitrinRengi": "#e5453a",
+      "rakamlar": [
+        {
+          "deger": "4",
+          "etiket": "abonelik paketi"
+        },
+        {
+          "deger": "2",
+          "etiket": "platform, iOS ve Android"
+        }
+      ],
+      "yapilanlar": [
+        "iOS ve Android için tek kod tabanı",
+        "Dört abonelik paketi ve mağaza içi satın alma",
+        "Abonelik yenileme ve iptallerinin sunucuda doğrulanması",
+        "Şikâyet, engelleme ve içerik moderasyonu",
+        "Randevu, sipariş ve mesajlaşma akışları",
+        "Yönetim paneli"
+      ],
+      "icerik": "EsnafM, mahalle esnafını müşterileriyle buluşturan bir pazaryeri uygulaması. Esnaf bir abonelik paketiyle mağazasını açıyor, müşteri ürün ve hizmetleri uygulamadan buluyor.\n\n## Mağaza kurallarına uygun abonelik\n\nÖdemeler Apple ve Google mağaza içi satın alma ile alınıyor. Yenileme ve iptal bildirimleri sunucuda doğrulanıyor, esnafın paketi buna göre açılıp kapanıyor.\n\n## Güvenli bir topluluk\n\nKullanıcı içerikleri için şikâyet, engelleme ve kullanım koşulu onayı var. Uygulama mağazalarının istediği moderasyon akışı uygulamanın içinde çalışıyor.",
+      "kapak": "/isler/kapaklar/esnafm-ozel.webp",
+      "logo": "/guvenenler/esnafm.png"
+    },
+    {
+      "kimlik": "parkshare",
+      "yayinda": true,
+      "slug": "parkshare",
+      "ad": "ParkShare",
+      "konum": "Türkiye",
+      "ozet": "Araç park yeri paylaşım uygulaması ve operasyon paneli. Uygulama ile panel aynı veri tabanını, yetki korumalı çağrılar üzerinden kullanıyor.",
+      "alan": "Mobil uygulama",
+      "yil": "2026",
+      "etiketler": [
+        "Flutter",
+        "Supabase",
+        "Admin panel"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Supabase",
+        "PostgreSQL",
+        "Google Maps",
+        "React",
+        "TypeScript",
+        "Vite",
+        "Tailwind CSS",
+        "Leaflet",
+        "Apple",
+        "Android"
+      ],
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/parkshare.jpg",
+        "/isler/parkshare-tanitim.jpg"
+      ],
+      "vitrinRengi": "#3b82f6",
+      "yapilanlar": [
+        "Park yeri paylaşma ve arama",
+        "Flutter ile iOS ve Android uygulama",
+        "React ile operasyon paneli",
+        "Uygulama ve panel için ortak veri tabanı",
+        "Yetki korumalı yönetim işlemleri"
+      ],
+      "icerik": "ParkShare, boş park yerini paylaşmak isteyenlerle park yeri arayanları buluşturan bir uygulama.\n\n## Uygulama ve panel aynı veride\n\nMobil uygulama ve operasyon paneli aynı veri tabanını kullanıyor. Panelden yapılan işlemler yetki kontrolünden geçen sunucu çağrılarıyla yürüyor, böylece uygulama tarafı yönetim işlemlerine erişemiyor.",
+      "kapak": "/isler/kapaklar/parkshare-ozel.webp",
+      "logo": "/guvenenler/parkshare.png"
+    },
+    {
+      "kimlik": "goscore-ai",
+      "yayinda": true,
+      "slug": "goscore-ai",
+      "ad": "GoScore AI",
+      "konum": "Türkiye",
+      "ozet": "Yapay zekâ destekli futbol maç analizi uygulaması. Ücretsiz ve VIP analizler, günlük kuponlar, kredi ve abonelikle açılan içerikler. App Store ve Google Play üzerinde yayında.",
+      "alan": "Mobil uygulama",
+      "yil": "2025",
+      "etiketler": [
+        "Flutter",
+        "Firebase",
+        "Abonelik"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Meta",
+        "Apple",
+        "Android"
+      ],
+      "adres": "gotips.web.tr",
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/goscore-ai.jpg",
+        "/isler/goscore-ai-vip.jpg",
+        "/isler/goscore-ai-kupon.jpg",
+        "/isler/goscore-ai-giris.jpg"
+      ],
+      "vitrinRengi": "#3d7cf5",
+      "rakamlar": [
+        {
+          "deger": "2",
+          "etiket": "mağazada yayında, App Store ve Google Play"
+        },
+        {
+          "deger": "3",
+          "etiket": "giriş yöntemi, e posta, Google ve Apple"
+        }
+      ],
+      "yapilanlar": [
+        "Ücretsiz ve VIP yapay zekâ analizleri",
+        "Günlük kuponlar, kazanılanlar ve arşiv bölümleri",
+        "Kredi, reklamsız kullanım ve abonelik için mağaza içi satın alma",
+        "E posta, Google ve Apple ile giriş",
+        "OneSignal ile anlık bildirim",
+        "Favoriler, bildirimler ve sık sorulan sorular"
+      ],
+      "icerik": "GoScore AI, futbol maçları için yapay zekâ destekli analizler sunan bir mobil uygulama. Kullanıcı günün maçlarını tarihe göre geziyor, her maç için yapay zekânın tahminini ve analizini görüyor.\n\n## Ücretsiz ve VIP analiz\n\nUygulamanın iki katmanı var. Ücretsiz analizler herkese açık. VIP analizler ve günlük kuponlar kilitli geliyor, kullanıcı kredi harcayarak ya da abonelik alarak kilidi açıyor. Sonuçlanan analizler kazanılanlar ve arşiv bölümlerinde duruyor.\n\n## Mağaza kurallarına uygun satın alma\n\nKredi paketleri, reklamsız kullanım ve abonelik Apple ve Google mağaza içi satın alma ile çalışıyor. Giriş e posta, Google ya da Apple hesabıyla yapılıyor, bildirimler OneSignal ile gönderiliyor.\n\n## Yayında\n\nUygulama App Store ve Google Play üzerinde yayında ve düzenli olarak güncelleniyor.",
+      "kapak": "/isler/kapaklar/goscore-ai-ozel.webp",
+      "logo": "/guvenenler/goscore-ai.png"
+    },
+    {
+      "kimlik": "boo-score",
+      "yayinda": true,
+      "slug": "boo-score",
+      "ad": "Boo Score",
+      "konum": "Türkiye",
+      "ozet": "Canlı futbol skorları uygulaması. Anlık skor, maç istatistikleri, puan durumu, kadrolar ve favori takımlar tek uygulamada. Veriyi uygulamaya kendi yazdığımız canlı veri sunucusu taşıyor.",
+      "alan": "Mobil uygulama",
+      "yil": "2025",
+      "etiketler": [
+        "Flutter",
+        "Node.js",
+        "Canlı veri"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Node.js",
+        "JavaScript",
+        "PostgreSQL",
+        "Redis",
+        "Google Cloud",
+        "Apple",
+        "Android"
+      ],
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/boo-score.jpg",
+        "/isler/boo-score-mac.jpg",
+        "/isler/boo-score-kayit.jpg"
+      ],
+      "vitrinRengi": "#3fae49",
+      "rakamlar": [
+        {
+          "deger": "2",
+          "etiket": "platform, iOS ve Android"
+        },
+        {
+          "deger": "5",
+          "etiket": "maç detayı sekmesi"
+        }
+      ],
+      "yapilanlar": [
+        "Canlı maçlar ve tarihe göre maç listesi",
+        "Maç detayında olaylar, istatistik, puan durumu, son maçlar ve kadro",
+        "Lig ve oyuncu sayfaları",
+        "Favori takım ve maç takibi",
+        "WebSocket ile anlık skor güncellemesi",
+        "Goalserve verisini işleyen Node.js sunucusu, Redis önbelleği ve PostgreSQL veri tabanı"
+      ],
+      "icerik": "Boo Score, futbolseverlerin maçları anlık takip ettiği bir canlı skor uygulaması. Günün maçları liglere göre gruplanıyor, oynanan maçın dakikası, devre arası ve uzatmalar kartın kenarındaki renkle ayırt ediliyor.\n\n## Anlık skor\n\nMaç verisi Goalserve servisinden geliyor. Bu veriyi doğrudan uygulamaya vermek yerine araya kendi sunucumuzu koyduk. Node.js ile yazılan sunucu gelen veriyi işliyor, Redis ile önbelleğe alıyor ve WebSocket üzerinden açık olan uygulamalara anında gönderiyor. Gol olduğunda skor sayfa yenilenmeden değişiyor.\n\n## Maçın her ayrıntısı\n\nMaç sayfasında goller ve kartlar, topa sahip olma oranı, hakem ve stadyum bilgisi, puan durumu, takımların son maçları ve kadrolar ayrı sekmelerde duruyor. Kullanıcı favori takımlarını ve maçlarını yıldızlayıp takip edebiliyor.",
+      "kapak": "/isler/kapaklar/boo-score-ozel.webp",
+      "logo": "/guvenenler/boo-score.png"
+    },
+    {
+      "kimlik": "preuger",
+      "yayinda": true,
+      "slug": "preuger",
+      "yil": "2026",
+      "video": "/isler/video/preuger.mp4",
+      "vitrinRengi": "#2f8f3a",
+      "gorseller": [
+        "/isler/video/preuger.jpg"
+      ],
+      "ad": "PREUGER",
+      "konum": "Slovakya",
+      "alan": "Marka sitesi",
+      "ozet": "Köklü bir bira üreticisinin marka sitesi. Türkçe, İngilizce ve Almanca; marka hikâyesi, üretim, ürünler ve bayi kanalları için ayrı bölümler.",
+      "etiketler": [
+        "React",
+        "Vite",
+        "Üç dil"
+      ],
+      "teknolojiler": [
+        "React",
+        "Vite",
+        "JavaScript"
+      ],
+      "yapilanlar": [
+        "Türkçe, İngilizce ve Almanca içerik",
+        "Marka hikâyesi ve üretim sayfaları",
+        "Ürün ailesi tanıtımı",
+        "Distribütör ve horeca kanalları için iş ortaklığı bölümü",
+        "Sürdürülebilirlik sayfası"
+      ],
+      "icerik": "PREUGER, Slovakya Prievidza kökenli bir bira markası. Markanın geçmişini, üretimini ve ürünlerini üç dilde anlatan bir site istendi.\n\n## Tüketici ve iş ortağı aynı sitede\n\nSitenin bir yüzü tüketiciye marka hikâyesini ve ürün ailesini anlatıyor. Diğer yüzü distribütör, market, restoran ve otel gibi iş ortaklarına yönelik. İçeriğin tamamı Türkçe, İngilizce ve Almanca okunabiliyor.",
+      "kapak": "/isler/kapaklar/preuger-ozel.webp",
+      "logo": "/guvenenler/preuger.png"
+    },
+    {
+      "kimlik": "imperra",
+      "yayinda": true,
+      "slug": "imperra",
+      "yil": "2026",
+      "video": "/isler/video/imperra.mp4",
+      "vitrinRengi": "#d7262e",
+      "gorseller": [
+        "/isler/video/imperra.jpg"
+      ],
+      "ad": "IMPERRA",
+      "konum": "Slovakya",
+      "alan": "Marka sitesi",
+      "ozet": "Bir craft lager markasının tanıtım sitesi. Videolu açılış, ürünler, hizmetler ve sürdürülebilirlik sayfaları üç dilde.",
+      "etiketler": [
+        "React",
+        "Vite",
+        "Üç dil"
+      ],
+      "teknolojiler": [
+        "React",
+        "Vite",
+        "JavaScript",
+        "i18next",
+        "Motion"
+      ],
+      "yapilanlar": [
+        "Videolu açılış alanı",
+        "Ürün ve hizmet sayfaları",
+        "Sürdürülebilirlik sayfası",
+        "Türkçe, İngilizce ve Almanca içerik"
+      ],
+      "icerik": "IMPERRA, geleneksel yöntemle üretilen bir craft lager markası. Markanın yaşam tarzını öne çıkaran, görsel ağırlıklı bir tanıtım sitesi istendi.\n\n## Görsel ağırlıklı anlatım\n\nAçılışta tam ekran bir video karşılıyor. Ürünler, hizmetler ve sürdürülebilirlik sayfaları büyük fotoğraflarla ilerliyor. Site üç dilde okunabiliyor.",
+      "kapak": "/isler/kapaklar/imperra-ozel.webp",
+      "logo": "/guvenenler/imperra.png"
+    },
+    {
+      "kimlik": "conta-tesisat",
+      "yayinda": true,
+      "slug": "conta-tesisat",
+      "yil": "2026",
+      "video": "/isler/video/conta-tesisat.mp4",
+      "vitrinRengi": "#1f5fbf",
+      "gorseller": [
+        "/isler/video/conta-tesisat.jpg"
+      ],
+      "ad": "Conta Tesisat",
+      "konum": "Bursa",
+      "alan": "Kurumsal site",
+      "ozet": "Bursa genelinde hizmet veren bir tesisat firmasının sitesi. Hizmetler panelden yönetiliyor, blog yazıları ve müşteri yorumları sitede.",
+      "etiketler": [
+        "HTML",
+        "JavaScript",
+        "Supabase"
+      ],
+      "teknolojiler": [
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "Supabase",
+        "Firebase"
+      ],
+      "adres": "contatesisat-web.web.app",
+      "yapilanlar": [
+        "Hizmet tanıtım sayfaları",
+        "Hizmetlerin panelden yönetilmesi",
+        "Blog yazıları",
+        "Müşteri yorumları ve sertifikalar",
+        "Hızlı iletişim bölümü"
+      ],
+      "icerik": "Conta Tesisat, Bursa genelinde su kaçağı tespiti, gider açma ve banyo tesisatı gibi işler yapan bir tesisat firması. Müşterinin telefonla hemen ulaşabileceği, hizmetleri net anlatan bir site istendi.\n\n## Firma kendi hizmetlerini yönetiyor\n\nHizmetler basit bir panelden ekleniyor ve düzenleniyor. Sitede hizmet sayfalarının yanında blog yazıları, müşteri yorumları ve sertifikalar yer alıyor.",
+      "kapak": "/isler/kapaklar/conta-tesisat-ozel.webp",
+      "logo": "/guvenenler/conta-tesisat.png"
+    },
+    {
+      "kimlik": "tezgahim",
+      "yayinda": true,
+      "slug": "tezgahim",
+      "ad": "Tezgahım",
+      "konum": "Türkiye",
+      "alan": "Mobil uygulama",
+      "yil": "2026",
+      "ozet": "Esnaf ve market pazaryeri uygulaması. Dükkanlar ürün ve kampanyalarını yayınlıyor, vitrin satın alımları sunucuda doğrulanıyor, on bir modüllü bir yönetim paneli var.",
+      "etiketler": [
+        "Flutter",
+        "Firebase",
+        "Cloud Functions"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Google Cloud",
+        "Node.js",
+        "JavaScript",
+        "Google Maps",
+        "Apple",
+        "Android"
+      ],
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/tezgahim.jpg",
+        "/isler/tezgahim-karsilama.jpg"
+      ],
+      "vitrinRengi": "#f97316",
+      "yapilanlar": [
+        "iOS ve Android için tek kod tabanı",
+        "Dükkan, ürün, kampanya ve banner yönetimi",
+        "Paketler ve süreli vitrin satın alımları",
+        "Ödemelerin sunucuda doğrulanması",
+        "Değerlendirme, favori ve içerik şikâyeti",
+        "On bir modüllü yönetim paneli"
+      ],
+      "icerik": "Tezgahım, mahalledeki dükkan ve marketleri müşterileriyle buluşturan bir pazaryeri uygulaması. Dükkan sahibi ürünlerini ve kampanyalarını uygulamaya ekliyor, müşteri yakınındaki dükkanları geziyor.\n\n## Ödemeler sunucuda doğrulanıyor\n\nPaket ve vitrin satın alımları Firebase Cloud Functions üzerinde doğrulanıyor. Doğrulanmayan bir satın alma dükkanın hesabına işlenmiyor.\n\n## Yönetim paneli\n\nBanner, dükkan, ürün, kategori, kampanya, değerlendirme, şikâyet ve gelir kayıtları on bir modüllü bir panelden yönetiliyor.",
+      "kapak": "/isler/kapaklar/tezgahim-ozel.webp",
+      "logo": "/guvenenler/tezgahim.png"
+    },
+    {
+      "kimlik": "sahada",
+      "yayinda": true,
+      "slug": "sahada",
+      "ad": "Sahada",
+      "konum": "Türkiye",
+      "alan": "Mobil uygulama",
+      "yil": "2026",
+      "ozet": "Halı saha maçı ve oyuncu eşleştirme uygulaması. Oyuncular maça davet ediliyor ya da başvuruyor, sohbet ve bildirimler anlık çalışıyor.",
+      "etiketler": [
+        "Flutter",
+        "Supabase",
+        "Anlık bildirim"
+      ],
+      "teknolojiler": [
+        "Flutter",
+        "Dart",
+        "Supabase",
+        "PostgreSQL",
+        "Firebase",
+        "Google Maps",
+        "Apple",
+        "Android"
+      ],
+      "sunum": "telefon",
+      "gorseller": [
+        "/isler/sahada.jpg"
+      ],
+      "vitrinRengi": "#22c55e",
+      "yapilanlar": [
+        "Maç ilanı, davet ve başvuru akışı",
+        "Oyuncular arası sohbet",
+        "Uygulama kapalıyken de gelen bildirimler",
+        "Oyuncu puanlama",
+        "Gerçek zamanlı veri"
+      ],
+      "icerik": "Sahada, halı saha maçı için eksik oyuncu arayanlarla oynayacak maç arayanları buluşturan bir uygulama.\n\n## Davet, başvuru, sohbet\n\nMaç kuran kişi oyuncuları davet ediyor, oyuncular da açık maçlara başvuruyor. Eşleşen oyuncular uygulama içinden yazışıyor, maçtan sonra birbirini puanlıyor.\n\n## Anında haberdar olmak\n\nDavet, başvuru ve mesajlar telefona bildirim olarak düşüyor. Bildirimler uygulama kapalıyken de geliyor, sohbet ekranı açıkken aynı sohbetin bildirimi susuyor.",
+      "kapak": "/isler/kapaklar/sahada-ozel.webp",
+      "logo": "/guvenenler/sahada.png"
+    }
+  ],
+  "hizmetler": [
+    {
+      "kimlik": "mobil-uygulama",
+      "yayinda": true,
+      "vitrinBaslik": "Mobil uygulama",
+      "vitrinAciklama": "Tek koddan iOS ve Android, mağaza yayını dahil.",
+      "slug": "mobil-uygulama",
+      "baslik": "Mobil uygulama",
+      "seoBaslik": "Mobil Uygulama Yaptırma, Flutter ile iOS ve Android",
+      "seoAciklama": "Flutter ile iOS ve Android için tek kod tabanından mobil uygulama. App Store ve Google Play yayını, anlık bildirim, uygulama içi satın alma ve yönetim paneli dahil.",
+      "giris": "Tek kod tabanından iOS ve Android. Mağaza yayını, bildirim altyapısı, abonelik ve uygulamayı yöneteceğiniz web paneli dahil, uçtan uca teslim.",
+      "kisaCevap": "KAM, mobil uygulamaları Flutter ile tek kod tabanından iOS ve Android için geliştirir. Teslime App Store ve Google Play yayını, anlık bildirimler, uygulama içi satın alma ve web tabanlı yönetim paneli dahildir. Örnek projeler EsnafM pazaryeri uygulaması ve ParkShare park yeri paylaşım uygulamasıdır.",
+      "kimlerIcin": [
+        "Müşterisine sadakat, randevu veya sipariş uygulaması vermek isteyen işletmeler",
+        "Pazaryeri, rezervasyon veya abonelik fikri olan girişimler",
+        "Saha ekibinin kullanacağı iç uygulamaya ihtiyaç duyan şirketler",
+        "Mevcut web sistemini telefona taşımak isteyenler"
+      ],
+      "dahil": [
+        {
+          "baslik": "iOS ve Android",
+          "aciklama": "Flutter ile tek kod, iki platform aynı anda güncellenir."
+        },
+        {
+          "baslik": "Mağaza yayını",
+          "aciklama": "App Store ve Google Play başvurusu, ekran görüntüleri ve inceleme süreci."
+        },
+        {
+          "baslik": "Anlık bildirim",
+          "aciklama": "Kampanya, sipariş ve hatırlatma bildirimleri."
+        },
+        {
+          "baslik": "Uygulama içi satın alma",
+          "aciklama": "Apple ve Google kurallarına uygun abonelik ve tek seferlik satın alma."
+        },
+        {
+          "baslik": "Yönetim paneli",
+          "aciklama": "Kullanıcıları, içerikleri ve siparişleri yöneteceğiniz web paneli."
+        },
+        {
+          "baslik": "Mağaza uyumu",
+          "aciklama": "Hesap silme, içerik şikâyeti ve izin metinleri gibi ret sebeplerine karşı baştan kurulum."
+        }
+      ],
+      "baslangicFiyati": "40.000 TL",
+      "fiyatNotu": "KDV hariç, iki platform ve temel yönetim paneli",
+      "fiyatEtkenleri": [
+        "Ekran sayısı ve müşteri, işletme, yönetici gibi kullanıcı rolleri",
+        "Ödeme, abonelik ve uygulama içi satın alma",
+        "Harita, konum, kamera ve QR gibi cihaz özellikleri",
+        "Mesajlaşma ve canlı veri ihtiyacı",
+        "ERP veya web sitesi gibi mevcut bir sisteme bağlanma"
+      ],
+      "teslimSuresi": "4 ile 10 hafta",
+      "ornekProje": {
+        "ad": "EsnafM",
+        "ozet": "Esnaf pazaryeri uygulaması. Dört abonelik paketi, mağaza içi satın alma, şikâyet ve moderasyon akışı."
+      },
+      "sss": [
+        {
+          "soru": "Mağaza hesap ücretlerini kim öder?",
+          "cevap": "Hesaplar sizin adınıza açılır ve ücretleri siz ödersiniz. Apple Developer Program yıllık 99 dolar, Google Play geliştirici hesabı tek seferlik 25 dolardır."
+        },
+        {
+          "soru": "Uygulama mağazadan reddedilirse ne olur?",
+          "cevap": "Ret gerekçesini düzeltip yeniden gönderiyoruz. Bu süreç teklife dahildir. Hesap silme, şikâyet ve izin metinleri gibi sık ret sebeplerini baştan kuruyoruz."
+        },
+        {
+          "soru": "Neden Flutter?",
+          "cevap": "Tek kod tabanıyla iki platform geliştirildiği için maliyet ve bakım yükü yaklaşık yarıya iner. Performansı çoğu iş uygulaması için yerel uygulamalarla aynı seviyededir."
+        }
+      ],
+      "ilgiliYazilar": [
+        "mobil-uygulama-yaptirma-maliyeti",
+        "web-sitesi-yaptirirken-sorulacak-sorular"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/mobil-uygulama.jpg",
+        "alt": "Elde tutulan telefonda grafik ve hava durumu gösteren uygulama arayüzü"
+      },
+      "renk": "#38bdf8"
+    },
+    {
+      "kimlik": "kurumsal-web-sitesi",
+      "yayinda": true,
+      "vitrinBaslik": "Kurumsal web sitesi",
+      "vitrinAciklama": "Hızlı açılan, aranınca bulunan, içeriğini kendiniz güncellediğiniz site.",
+      "slug": "kurumsal-web-sitesi",
+      "baslik": "Kurumsal web sitesi",
+      "seoBaslik": "Kurumsal Web Sitesi Yaptırma, Yönetim Panelli ve SEO Uyumlu",
+      "seoAciklama": "Hızlı açılan, Google aramalarında ve yapay zekâ cevaplarında bulunan, içeriğini kendiniz güncellediğiniz kurumsal web sitesi. Tasarım ve yayın dahil.",
+      "giris": "Firmanızı arayan müşterinin karşısına çıkan ilk şey. Hazır tema giydirmiyoruz. Siteyi işinize göre tasarlıyor, içeriği kendiniz değiştirebileceğiniz bir panelle teslim ediyoruz.",
+      "kisaCevap": "KAM, kurumsal web sitelerini hazır tema yerine işletmeye özel tasarlar ve içerik yönetim paneliyle teslim eder. Teslim süresi çoğu projede 1 ile 3 hafta arasındadır. Alan adı ve hosting müşterinin adına açılır, şifreler müşteride kalır. Fiyat sayfa sayısına, dil seçeneğine, panel ihtiyacına ve entegrasyonlara göre belirlenir.",
+      "kimlerIcin": [
+        "Hiç sitesi olmayan ya da sitesi telefonda bozuk görünen işletmeler",
+        "Google aramasında firma adıyla bulunamayanlar",
+        "Teklif ve randevu taleplerini telefondan forma taşımak isteyenler",
+        "Klinik, emlak, inşaat, hukuk, danışmanlık ve üretim firmaları"
+      ],
+      "dahil": [
+        {
+          "baslik": "Özel tasarım",
+          "aciklama": "Önce ana sayfa tasarımını görürsünüz. Onaylamadan geliştirmeye geçilmez."
+        },
+        {
+          "baslik": "İçerik yönetim paneli",
+          "aciklama": "Metin, görsel, hizmet ve blog yazılarını kod bilmeden güncellersiniz."
+        },
+        {
+          "baslik": "Arama motoru altyapısı",
+          "aciklama": "Sayfa başlıkları, yapılandırılmış veri, site haritası ve hız optimizasyonu baştan kurulur."
+        },
+        {
+          "baslik": "Mobil uyum",
+          "aciklama": "Ziyaretçilerin çoğu telefondan gelir, tasarım önce telefonda test edilir."
+        },
+        {
+          "baslik": "Form ve WhatsApp",
+          "aciklama": "Teklif, randevu ve iletişim formları mail kutunuza düşer. WhatsApp butonu eklenir."
+        },
+        {
+          "baslik": "Alan adı, hosting, SSL",
+          "aciklama": "Kurulum sizin adınıza yapılır, erişim bilgileri sizde kalır."
+        }
+      ],
+      "baslangicFiyati": "15.000 TL",
+      "fiyatNotu": "KDV hariç, 5 sayfaya kadar tek dilli site",
+      "fiyatEtkenleri": [
+        "Sayfa sayısı ve içerik yoğunluğu",
+        "Türkçe, İngilizce veya Arapça gibi dil seçenekleri",
+        "Blog, referans ve ilan gibi yönetilebilir bölümler",
+        "Randevu, rezervasyon ya da üyelik gibi özel modüller",
+        "Metin yazımı ve fotoğraf çekiminin dahil olup olmadığı"
+      ],
+      "teslimSuresi": "1 ile 3 hafta",
+      "ornekProje": {
+        "ad": "LİKYA Grup",
+        "ozet": "Antalya merkezli emlak firması için ilan sitesi ve danışmanların kullandığı ayrı yönetim paneli."
+      },
+      "sss": [
+        {
+          "soru": "Kurumsal web sitesi kaç günde hazır olur?",
+          "cevap": "Metin ve görseller hazırsa 5 sayfalık bir site 1 ile 2 haftada yayına alınır. Panel, çoklu dil veya özel modül eklendikçe süre 3 haftaya kadar uzayabilir."
+        },
+        {
+          "soru": "Siteyi sonradan kendim güncelleyebilir miyim?",
+          "cevap": "Evet. Her site, metin ve görselleri kod bilmeden değiştirebileceğiniz bir yönetim paneliyle teslim edilir. Aylık bakım paketinde güncellemeler de yapılır."
+        },
+        {
+          "soru": "Alan adı ve hosting kimin adına olur?",
+          "cevap": "Sizin adınıza. Hesaplar sizin mail adresinizle açılır, tüm şifreler teslimde size verilir."
+        },
+        {
+          "soru": "WordPress mi kullanıyorsunuz?",
+          "cevap": "Projeye göre karar veriyoruz. Sık içerik giren ekipler için WordPress, hız ve özel işlev gereken projelerde React tabanlı özel yazılım öneriyoruz. Gerekçesini teklifte yazılı olarak görürsünüz."
+        }
+      ],
+      "ilgiliYazilar": [
+        "web-sitesi-yaptirma-fiyatlari",
+        "hazir-tema-mi-ozel-yazilim-mi",
+        "web-sitesi-yaptirirken-sorulacak-sorular"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/kurumsal-web-sitesi.jpg",
+        "alt": "Karanlık bir masada kod ve web sitesi tasarımı açık iki ekran"
+      },
+      "renk": "#e2462d"
+    },
+    {
+      "kimlik": "e-ticaret-sitesi",
+      "yayinda": true,
+      "vitrinBaslik": "E ticaret ve bayi sistemi",
+      "vitrinAciklama": "Sanal POS, toplu ürün aktarımı ve bayiye özel fiyat.",
+      "slug": "e-ticaret-sitesi",
+      "baslik": "E ticaret sitesi",
+      "seoBaslik": "E Ticaret Sitesi Yaptırma, Sanal POS, Bayi Sistemi ve ERP Entegrasyonu",
+      "seoAciklama": "PayTR veya iyzico sanal POS bağlantılı, yönetim panelli, satışa hazır e ticaret sitesi. Toplu ürün aktarımı, bayi fiyatlandırması, ERP entegrasyonu ve 8.962 ürünlük mağaza tecrübesi.",
+      "giris": "Satışa hazır mağaza. Ürün kataloğu, sepet, kargo ve banka entegrasyonu kurulu gelir, siparişleri tek ekrandan yönetirsiniz. Komisyonlu pazaryerine bağlı kalmadan kendi kanalınızdan satarsınız.",
+      "kisaCevap": "KAM, PayTR veya iyzico sanal POS bağlantılı, yönetim panelli ve satışa hazır e ticaret siteleri kurar. Binlerce ürünü Excel dosyasından veya ERP sisteminden toplu aktarabilir, bayilere ayrı fiyat kademesi tanımlayabilir. Canlı örnekler 8.962 ürünlü Zenomax ve gerçek tahsilat yapan GKY Metal mağazalarıdır.",
+      "kimlerIcin": [
+        "Pazaryeri komisyonundan kurtulup kendi kanalını açmak isteyen satıcılar",
+        "Ürünlerini Excel dosyasında ya da ERP sisteminde tutan toptancılar",
+        "Bayilerine ayrı fiyat göstermesi gereken üreticiler",
+        "Instagram üzerinden mesajla satış yapıp ödemeyi havaleyle alan işletmeler"
+      ],
+      "dahil": [
+        {
+          "baslik": "Sanal POS",
+          "aciklama": "PayTR veya iyzico ile kartla ve taksitle tahsilat. Ödeme bankadan doğrulanmadan sipariş onaylanmaz."
+        },
+        {
+          "baslik": "Toplu ürün aktarımı",
+          "aciklama": "Excel, XML ya da ERP sisteminden binlerce ürün tek seferde içeri alınır."
+        },
+        {
+          "baslik": "Bayi ve iskonto kademeleri",
+          "aciklama": "Bayiler giriş yapınca kendi iskontolu fiyatını görür."
+        },
+        {
+          "baslik": "Sipariş paneli",
+          "aciklama": "Sipariş, stok, kargo durumu ve müşteri bilgisi tek ekranda."
+        },
+        {
+          "baslik": "Yasal sayfalar",
+          "aciklama": "Mesafeli satış sözleşmesi, KVKK ve iade metinleri için şablon yapı."
+        },
+        {
+          "baslik": "Ürün SEO çalışması",
+          "aciklama": "Her ürün için yapılandırılmış veri. Google aramalarında fiyat ve stok bilgisiyle görünme."
+        }
+      ],
+      "baslangicFiyati": "25.000 TL",
+      "fiyatNotu": "KDV hariç, tek sanal POS ve 500 ürüne kadar aktarım",
+      "fiyatEtkenleri": [
+        "Ürün sayısı ve beden, renk, ölçü gibi varyant yapısı",
+        "ERP, muhasebe veya pazaryeri entegrasyonu",
+        "Bayi, toptan ve perakende fiyat ayrımı",
+        "Kargo firması entegrasyonu",
+        "Çoklu depo ve döviz bazlı fiyatlandırma"
+      ],
+      "teslimSuresi": "2 ile 5 hafta",
+      "ornekProje": {
+        "ad": "GKY Metal",
+        "ozet": "Alçıpan profil mağazası. Panelden yönetilen vitrin, tarayıcıda görsel kırpma ve PayTR ile canlı tahsilat."
+      },
+      "sss": [
+        {
+          "soru": "Sanal POS için ne gerekiyor?",
+          "cevap": "Şirketiniz, vergi levhanız ve bir banka hesabınız yeterli. Şahıs şirketi de olur. PayTR veya iyzico başvurusunu birlikte yapıyoruz, onay genelde birkaç iş günü sürer."
+        },
+        {
+          "soru": "Trendyol veya Hepsiburada mağazamdaki ürünleri aktarabilir misiniz?",
+          "cevap": "Ürünleri Excel veya XML olarak dışa aktarabiliyorsanız evet. Görseller, açıklamalar ve fiyatlar toplu olarak siteye alınır."
+        },
+        {
+          "soru": "Shopify yerine neden özel site?",
+          "cevap": "Shopify küçük kataloglar için iyi bir başlangıçtır. Bayi fiyatı, ERP bağlantısı ve döviz bazlı fiyat gibi yerel ihtiyaçlarda özel yazılım hem esnek hem de aylık abonelik ücreti olmadan çalışır."
+        },
+        {
+          "soru": "Kaç ürün yüklenebilir?",
+          "cevap": "Pratikte sınır yok. Canlıdaki Zenomax mağazasında 8.962 ürün, ERP listesinden otomatik olarak aktarılıyor."
+        }
+      ],
+      "ilgiliYazilar": [
+        "e-ticaret-sitesi-kurmak-icin-gerekenler",
+        "sanal-pos-nedir-paytr-iyzico",
+        "b2b-bayi-siparis-sistemi"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/e-ticaret-sitesi.jpg",
+        "alt": "Kredi kartıyla dizüstü bilgisayardan alışveriş sepetini ödeyen kişi"
+      },
+      "renk": "#f59e0b"
+    },
+    {
+      "kimlik": "erp-ve-ozel-yazilim",
+      "yayinda": true,
+      "slug": "erp-ve-ozel-yazilim",
+      "baslik": "ERP ve özel yazılım",
+      "vitrinBaslik": "ERP ve özel yazılım",
+      "vitrinAciklama": "Stok, cari, sipariş ve üretimi tek ekranda toplayan, işinize göre yazılan yönetim sistemi.",
+      "seoBaslik": "Özel ERP Yazılımı, Stok, Cari ve Sipariş Yönetimi",
+      "seoAciklama": "İşletmenize özel ERP ve yönetim paneli. Stok, cari, sipariş, üretim, bayi ve rapor modülleri, muhasebe programı ve e fatura entegrasyonu.",
+      "giris": "Excel dosyaları, WhatsApp grupları ve birbirini tanımayan programlar arasında kaybolan siparişler, tutmayan stok sayıları ve kimin neyi onayladığını bilmemek, büyüyen her işletmenin sorunu. Hazır ERP paketleri ya işinize uymayan ekranlarla ya da hiç kullanmayacağınız modüllerle geliyor. Özel yazılımda yalnızca sizin işleyişinize gereken ekranları yazıyoruz.",
+      "kisaCevap": "KAM ERP ve özel yazılım hizmeti stok, cari, sipariş, üretim, bayi ve rapor modüllerinden işletmenin ihtiyaç duyduklarını içeren, tarayıcıdan ve telefondan çalışan bir yönetim sistemi kurar. Sistem mevcut muhasebe programı, e fatura ve e ticaret sitesiyle bağlanır, kaynak kod ve veriler işletmenin olur.",
+      "kimlerIcin": [
+        "Stok ve siparişleri Excel ya da kâğıtla takip eden toptancı ve üreticiler",
+        "Bayileri ve saha ekibi olan, siparişleri telefonla toplayan firmalar",
+        "Hazır ERP paketine para verip ekipte kimsenin kullanmadığı işletmeler",
+        "Birden fazla depo, şube ya da üretim hattını tek ekrandan görmek isteyenler"
+      ],
+      "dahil": [
+        {
+          "baslik": "İş analizi",
+          "aciklama": "Önce mevcut işleyişiniz yerinde ya da görüntülü görüşmeyle çıkarılır, hangi ekranın kime lazım olduğu yazılı hale getirilir."
+        },
+        {
+          "baslik": "Stok ve depo",
+          "aciklama": "Ürün kartları, çoklu depo, sayım, giriş çıkış hareketleri ve kritik stok uyarıları tek ekranda yönetilir."
+        },
+        {
+          "baslik": "Cari ve sipariş",
+          "aciklama": "Müşteri ve tedarikçi carileri, teklif, sipariş, sevkiyat ve tahsilat adımları birbirine bağlanır."
+        },
+        {
+          "baslik": "Rol ve yetki",
+          "aciklama": "Depo, satış, muhasebe ve yönetimde her kullanıcı yalnızca kendi işine ait ekranları ve rakamları görür."
+        },
+        {
+          "baslik": "Entegrasyonlar",
+          "aciklama": "Logo, Mikro ve Paraşüt gibi muhasebe programları, e fatura, kargo ve e ticaret sitenizle veri alışverişi kurulur."
+        },
+        {
+          "baslik": "Raporlar ve mobil kullanım",
+          "aciklama": "Satış, kârlılık ve stok raporları tarayıcıdan ve telefondan görülür, saha ekibi siparişi telefondan girer."
+        }
+      ],
+      "baslangicFiyati": "",
+      "fiyatNotu": "",
+      "fiyatEtkenleri": [
+        "Modül ve ekran sayısı",
+        "Kullanıcı ve rol çeşitliliği",
+        "Muhasebe ve e fatura entegrasyonları",
+        "Eski verilerin aktarılması",
+        "Mobil uygulama ihtiyacı"
+      ],
+      "teslimSuresi": "8 ile 16 hafta",
+      "ornekProje": {
+        "ad": "FitCity",
+        "ozet": "Çok şubeli spor merkezi yönetim sistemi. Üyelik, ölçüm takibi, ders programı ve eğitmen puanlaması tek panelde."
+      },
+      "sss": [
+        {
+          "soru": "Hazır ERP yerine neden özel yazılım?",
+          "cevap": "Hazır paketler her sektöre uyacak şekilde yazıldığı için ekranları kalabalıktır ve yıllık lisans ücreti kullanıcı sayısıyla artar. Özel yazılımda yalnızca kullandığınız ekranlar olur, lisans ücreti yoktur ve işleyişiniz değiştikçe sistem de değişir."
+        },
+        {
+          "soru": "Mevcut muhasebe programımla çalışır mı?",
+          "cevap": "Logo, Mikro, Paraşüt ve benzeri programların çoğu veri alışverişine izin verir. Fatura ve cari hareketlerini muhasebe programınıza aktaran bağlantıyı kuruyoruz, muhasebeciniz alıştığı programda çalışmaya devam eder."
+        },
+        {
+          "soru": "Sistemi parça parça devreye alabilir miyiz?",
+          "cevap": "Evet, önerdiğimiz yol da bu. Önce en çok zaman kaybettiren modül devreye alınır, çoğu zaman bu stok ya da sipariştir. Ekip alıştıkça diğer modüller eklenir ve ilk sonuçları birkaç hafta içinde görürsünüz."
+        },
+        {
+          "soru": "Verilerimiz nerede duruyor?",
+          "cevap": "Sistem sizin adınıza açılan sunucuda çalışır ve her gün yedeklenir. Kaynak kod ve veritabanı sizindir, istediğiniz zaman başka bir yazılımcıyla devam edebilirsiniz."
+        }
+      ],
+      "ilgiliYazilar": [
+        "b2b-bayi-siparis-sistemi",
+        "hazir-tema-mi-ozel-yazilim-mi"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/erp-ve-ozel-yazilim.jpg",
+        "alt": "Depoda tabletten stok bilgisine bakan iki çalışan"
+      },
+      "renk": "#34d399"
+    },
+    {
+      "kimlik": "seo-ve-geo",
+      "yayinda": true,
+      "vitrinBaslik": "SEO ve GEO",
+      "vitrinAciklama": "Google aramasında ve ChatGPT, Gemini gibi yapay zekâ cevaplarında bulunun.",
+      "slug": "seo-ve-geo",
+      "baslik": "SEO ve GEO çalışması",
+      "seoBaslik": "SEO ve GEO Hizmeti, Google ve Yapay Zekâ Aramaları",
+      "seoAciklama": "Teknik SEO, yapılandırılmış veri, içerik planı ve aylık rapor. Siteniz Google aramasında ve ChatGPT, Gemini, Perplexity cevaplarında görünsün.",
+      "giris": "Siteniz ne kadar iyi olursa olsun, aranınca çıkmıyorsa müşteri onu görmez. Üstelik müşteriler artık yalnızca Google arama kutusuna yazmıyor, sorusunu ChatGPT ile soruyor ya da aramanın en üstündeki yapay zekâ özetini okuyup karar veriyor. SEO ve GEO çalışmasında sitenizi hem arama sonuçlarına hem de bu yapay zekâ cevaplarına hazırlıyoruz.",
+      "kisaCevap": "KAM SEO ve GEO çalışması teknik denetim, hız iyileştirmesi, Search Console ve Google İşletme Profili kurulumu, yapılandırılmış veri, soru cevap düzeninde içerik ve aylık raporu kapsar. Amaç sitenin Google aramasında üst sıralarda çıkması ve ChatGPT, Gemini, Perplexity ile Google AI Overviews cevaplarında kaynak olarak gösterilmesidir.",
+      "kimlerIcin": [
+        "Sitesi olduğu halde aranınca bulunamayan işletmeler",
+        "Bulunduğu şehirde Google Haritalar ve yerel aramalarda öne çıkmak isteyen firmalar",
+        "Reklam bütçesine bağlı kalmadan düzenli ziyaretçi isteyen e ticaret siteleri",
+        "Müşterilerinin sorularını artık yapay zekâya sorduğunu fark eden markalar"
+      ],
+      "dahil": [
+        {
+          "baslik": "Teknik SEO denetimi",
+          "aciklama": "Dizine eklenme, site haritası, robots.txt, yönlendirmeler ve kırık bağlantılar tek tek kontrol edilir."
+        },
+        {
+          "baslik": "Hız ve Core Web Vitals",
+          "aciklama": "Görseller, yazı tipleri ve kod hafifletilir, sayfa telefonda da hızlı açılır."
+        },
+        {
+          "baslik": "Yapılandırılmış veri",
+          "aciklama": "Firma, ürün, makale ve soru cevap işaretlemeleri eklenir, aramada zengin sonuç çıkar."
+        },
+        {
+          "baslik": "Search Console ve İşletme Profili",
+          "aciklama": "Search Console, Analytics ve Google İşletme Profili kurulur, haritada doğru bilgiyle görünürsünüz."
+        },
+        {
+          "baslik": "GEO hazırlığı",
+          "aciklama": "llms.txt dosyası, yapay zekâ botlarına açık erişim ve soruya ilk paragrafta cevap veren içerik düzeni."
+        },
+        {
+          "baslik": "İçerik planı ve aylık rapor",
+          "aciklama": "Müşterilerinizin aradığı sorulara göre yazı planı çıkarılır, sıralama ve tıklamalar her ay raporlanır."
+        }
+      ],
+      "baslangicFiyati": "Aylık 5.000 TL",
+      "fiyatNotu": "KDV hariç, teknik kurulum ilk aya dahil",
+      "fiyatEtkenleri": [
+        "Sitedeki sayfa ve ürün sayısı",
+        "Her ay yazılacak içerik sayısı",
+        "Hedeflenen şehir ve dil sayısı"
+      ],
+      "teslimSuresi": "Teknik kurulum 1 ile 2 hafta",
+      "sss": [
+        {
+          "soru": "Ne zaman sonuç alırım?",
+          "cevap": "Teknik düzeltmelerin etkisi genellikle birkaç hafta içinde Search Console raporlarında görünür. Rekabetin yüksek olduğu aramalarda kalıcı sıralama üç ile altı ay sürer. Kimse belirli bir sırayı garanti edemez, garanti veren firmaya şüpheyle yaklaşın."
+        },
+        {
+          "soru": "GEO, SEO çalışmasının yerine mi geçiyor?",
+          "cevap": "Hayır. Yapay zekâ araçlarının çoğu cevap üretirken arama motorlarının dizinini kullanır. Google aramasında bulunamayan bir sayfayı yapay zekâ da çoğu zaman bulamaz, bu yüzden GEO sağlam bir SEO altyapısının üzerine kurulur."
+        },
+        {
+          "soru": "Başka firmanın yaptığı siteye SEO yapıyor musunuz?",
+          "cevap": "Evet. Önce bir ön denetimle sorunları listeliyoruz. Siteye erişim varsa düzeltmeleri doğrudan uyguluyoruz, yoksa yazılımcınıza madde madde yapılacaklar listesi veriyoruz."
+        }
+      ],
+      "ilgiliYazilar": [
+        "geo-nedir-yapay-zeka-aramalari",
+        "web-sitesi-yaptirirken-sorulacak-sorular"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/seo-ve-geo.jpg",
+        "alt": "Karanlıkta elde tutulan telefonda açık Google arama sayfası"
+      },
+      "renk": "#a78bfa"
+    },
+    {
+      "kimlik": "reklam-yonetimi",
+      "yayinda": true,
+      "slug": "reklam-yonetimi",
+      "baslik": "Google Ads ve reklam yönetimi",
+      "vitrinBaslik": "Reklam yönetimi",
+      "vitrinAciklama": "Google Ads, Instagram ve Facebook reklamlarında müşteri getiren kampanyalar.",
+      "seoBaslik": "Google Ads ve Meta Reklam Yönetimi, PPC Hizmeti",
+      "seoAciklama": "Google Ads arama, alışveriş ve Performance Max kampanyaları ile Instagram ve Facebook reklamları. Dönüşüm takibi, haftalık iyileştirme ve aylık rapor.",
+      "giris": "Reklam bütçesi, doğru kurulmamış bir hesapta en hızlı biten şeydir. Alakasız aramalara tıklama parası ödenir, kimin form doldurduğu ya da satın aldığı bilinmez. Reklam yönetiminde önce dönüşüm takibini kuruyor, sonra bütçeyi gerçekten müşteri getiren kampanyalara kaydırıyoruz.",
+      "kisaCevap": "KAM reklam yönetimi Google Ads arama, alışveriş ve Performance Max kampanyaları ile Instagram ve Facebook reklamlarının kurulumunu, dönüşüm takibini, haftalık iyileştirmeyi ve aylık raporu kapsar. Reklam bütçesi doğrudan işletmenin kartından ödenir, yönetim ücreti ayrıdır ve hesap her zaman işletmenin adına kalır.",
+      "kimlerIcin": [
+        "Reklam verdiği halde kaç müşteri kazandığını bilmeyen işletmeler",
+        "Yeni açılan ve kısa sürede talep toplamak isteyen firmalar",
+        "Ürünlerini Google Alışveriş ve Instagram üzerinden satmak isteyen e ticaret siteleri",
+        "Belirli bir şehirde ya da semtte müşteri arayan klinik, servis ve emlak firmaları"
+      ],
+      "dahil": [
+        {
+          "baslik": "Hesap ve kampanya kurulumu",
+          "aciklama": "Google Ads ve Meta reklam hesapları sizin adınıza açılır, anahtar kelime ve hedef kitle araştırmasıyla kampanyalar kurulur."
+        },
+        {
+          "baslik": "Dönüşüm takibi",
+          "aciklama": "Form, telefon araması, WhatsApp tıklaması ve satın alma gibi gerçek sonuçlar Google Analytics ve Meta pikseliyle ölçülür."
+        },
+        {
+          "baslik": "Reklam metni ve görseli",
+          "aciklama": "Arama reklamlarının metinleri ve sosyal medya reklamlarının görselleri, karşılaştırılabilsin diye birkaç seçenekle hazırlanır."
+        },
+        {
+          "baslik": "Negatif kelime ve bütçe kontrolü",
+          "aciklama": "Alakasız aramalar her hafta ayıklanır, bütçe en düşük maliyetle müşteri getiren kampanyaya kaydırılır."
+        },
+        {
+          "baslik": "Açılış sayfası önerileri",
+          "aciklama": "Reklamın açtığı sayfa yavaşsa ya da formu karışıksa düzeltmeler yapılır ya da madde madde önerilir."
+        },
+        {
+          "baslik": "Aylık rapor",
+          "aciklama": "Harcama, tıklama, müşteri başına maliyet ve satışlar her ay sade bir raporla ve gelecek ayın planıyla gelir."
+        }
+      ],
+      "baslangicFiyati": "",
+      "fiyatNotu": "",
+      "fiyatEtkenleri": [
+        "Yönetilen platform sayısı",
+        "Aylık reklam bütçesinin büyüklüğü",
+        "Kampanya ve ürün sayısı",
+        "Reklam görseli ve video ihtiyacı"
+      ],
+      "teslimSuresi": "Kampanyalar 1 hafta içinde yayında",
+      "sss": [
+        {
+          "soru": "Ne kadar reklam bütçesi ayırmalıyım?",
+          "cevap": "Sektöre ve şehre göre değişir. İlk görüşmede sektörünüzdeki tıklama maliyetlerine bakıp size gerçekçi bir başlangıç bütçesi öneriyoruz, sonra bütçeyi ilk haftaların sonuçlarına göre birlikte ayarlıyoruz."
+        },
+        {
+          "soru": "Reklam hesabı kimin adına açılıyor?",
+          "cevap": "Hesap sizin adınıza ve sizin ödeme yönteminizle açılır, biz yönetici olarak ekleniriz. Çalışmayı bıraktığınızda hesap bütün geçmişiyle sizde kalır."
+        },
+        {
+          "soru": "Sonuçları ne zaman görürüm?",
+          "cevap": "Arama reklamları yayına girdiği gün tıklama almaya başlar. Kampanyanın oturması ve müşteri başına maliyetin düşmesi genellikle iki ile dört hafta sürer, çünkü sistem ilk haftalarda veri toplar."
+        },
+        {
+          "soru": "SEO yerine reklam mı vermeliyim?",
+          "cevap": "İkisi birbirinin yerine geçmez. Reklam bugün müşteri getirir ama bütçe bitince durur, SEO ise aylar içinde birikir ve tıklama başına para istemez. Çoğu işletme için en iyisi reklamla başlayıp SEO ile reklama bağımlılığı azaltmaktır."
+        }
+      ],
+      "ilgiliYazilar": [],
+      "gorsel": {
+        "src": "/hizmetler/reklam-yonetimi.jpg",
+        "alt": "Tıklama oranı, dönüşüm maliyeti ve kalite puanı gösteren reklam paneli"
+      },
+      "renk": "#facc15"
+    },
+    {
+      "kimlik": "sosyal-medya-yonetimi",
+      "yayinda": true,
+      "slug": "sosyal-medya-yonetimi",
+      "baslik": "Sosyal medya yönetimi",
+      "vitrinBaslik": "Sosyal medya yönetimi",
+      "vitrinAciklama": "Instagram, TikTok ve LinkedIn için içerik planı, tasarım, paylaşım ve aylık rapor.",
+      "seoBaslik": "Sosyal Medya Yönetimi, İçerik Üretimi ve Raporlama",
+      "seoAciklama": "Instagram, TikTok, LinkedIn ve Facebook hesaplarınız için aylık içerik planı, gönderi ve video tasarımı, paylaşım takvimi, mesaj takibi ve aylık rapor.",
+      "giris": "Müşterileriniz sizi aramadan önce çoğu zaman Instagram hesabınıza bakıyor. Son paylaşımı aylar önce yapılmış bir hesap, işletme kapanmış gibi görünür. Sosyal medya yönetiminde içerik planını, tasarımları ve paylaşımları biz üstleniyoruz, siz yalnızca onay veriyorsunuz.",
+      "kisaCevap": "KAM sosyal medya yönetimi aylık içerik planı, gönderi ve kısa video tasarımı, paylaşım takvimi, açıklama ve etiket yazımı, yorum ve mesaj takibi ile aylık raporu kapsar. Instagram, TikTok, LinkedIn ve Facebook hesapları tek planla yönetilir, her içerik paylaşılmadan önce onayınıza sunulur.",
+      "kimlerIcin": [
+        "Hesabı açık olduğu halde düzenli paylaşım yapamayan işletmeler",
+        "Ürünlerini Instagram ve TikTok üzerinden satmak isteyen e ticaret siteleri",
+        "Klinik, restoran, emlak ve güzellik gibi görselin karar verdirdiği sektörler",
+        "Sosyal medyasını devretmek isteyip tek kişiyle muhatap olmak isteyen markalar"
+      ],
+      "dahil": [
+        {
+          "baslik": "Aylık içerik planı",
+          "aciklama": "Ayın başında hangi gün ne paylaşılacağı takvimle önünüze gelir, onaylamadığınız hiçbir şey yayınlanmaz."
+        },
+        {
+          "baslik": "Gönderi ve hikâye tasarımı",
+          "aciklama": "Markanızın renkleri ve yazı tipiyle tutarlı gönderi, karusel ve hikâye tasarımları hazırlanır."
+        },
+        {
+          "baslik": "Kısa video ve Reels",
+          "aciklama": "Çektiğiniz görüntülerden ya da ürün fotoğraflarından altyazılı kısa videolar kurgulanır."
+        },
+        {
+          "baslik": "Açıklama ve etiket yazımı",
+          "aciklama": "Her paylaşımın metni, etiketleri ve konumu aranınca bulunacak şekilde yazılır."
+        },
+        {
+          "baslik": "Yorum ve mesaj takibi",
+          "aciklama": "Gelen yorum ve mesajlar mesai saatlerinde yanıtlanır, satış fırsatları size iletilir."
+        },
+        {
+          "baslik": "Aylık rapor",
+          "aciklama": "Erişim, etkileşim, takipçi ve profilden sitenize gelen ziyaretler her ay sade bir raporla gelir."
+        }
+      ],
+      "baslangicFiyati": "",
+      "fiyatNotu": "",
+      "fiyatEtkenleri": [
+        "Yönetilen hesap sayısı",
+        "Aylık paylaşım ve video sayısı",
+        "Çekim gerekip gerekmediği",
+        "Yorum ve mesaj trafiğinin yoğunluğu"
+      ],
+      "teslimSuresi": "İlk plan 1 hafta içinde",
+      "sss": [
+        {
+          "soru": "Fotoğraf ve video çekimi de yapıyor musunuz?",
+          "cevap": "Elinizdeki fotoğraf ve videolarla çalışabiliyoruz, telefonla nasıl çekim yapacağınızı da gösteriyoruz. Profesyonel çekim gerekiyorsa çekim günü ayrıca planlanır ve teklifte ayrı satır olarak yazılır."
+        },
+        {
+          "soru": "Reklam bütçesi fiyata dahil mi?",
+          "cevap": "Hayır. Aylık ücret içerik üretimini ve hesap yönetimini kapsar. Instagram ve Facebook reklamı verilecekse bütçe doğrudan sizin kartınızdan ödenir, reklamların kurulumu ve takibi reklam yönetimi hizmetinin konusudur."
+        },
+        {
+          "soru": "Hesap şifrelerimi size vermem gerekiyor mu?",
+          "cevap": "Gerekmiyor. Meta Business Suite ve benzeri araçlarla hesabın sahibi siz kalarak bize yetki veriyorsunuz. Çalışmayı bıraktığımızda yetkiyi tek tıkla geri alırsınız."
+        },
+        {
+          "soru": "Ne zaman sonuç görürüm?",
+          "cevap": "Düzenli paylaşımın etkisi genellikle ikinci ve üçüncü ayda erişim ve etkileşim artışı olarak görünür. Takipçi sayısı tek başına hedef değildir, raporda profilden sitenize ve mesaja gelen müşterileri de izliyoruz."
+        }
+      ],
+      "ilgiliYazilar": [],
+      "gorsel": {
+        "src": "/hizmetler/sosyal-medya-yonetimi.jpg",
+        "alt": "Telefon ekranında Facebook, Instagram, WhatsApp ve X uygulamalarının durduğu sosyal medya klasörü"
+      },
+      "renk": "#f472b6"
+    },
+    {
+      "kimlik": "bakim-ve-destek",
+      "yayinda": true,
+      "vitrinBaslik": "Bakım ve destek",
+      "vitrinAciklama": "Yedek, güncelleme ve kesinti takibi siz fark etmeden.",
+      "slug": "bakim-ve-destek",
+      "baslik": "Bakım ve destek",
+      "seoBaslik": "Web Sitesi Bakım ve Teknik Destek Paketi, Aylık Bakım",
+      "seoAciklama": "Web siteniz ve uygulamanız için aylık bakım. Yedekleme, güvenlik güncellemeleri, kesinti izleme, SSL takibi ve aylık değişiklik hakkı.",
+      "giris": "Yayına almak işin yarısı. Site yavaşlar, SSL süresi dolar, eklentiler güncellenmez, form bir gün sessizce çalışmayı bırakır. Aylık bakım paketinde bunları siz fark etmeden biz hallederiz.",
+      "kisaCevap": "KAM aylık bakım paketi haftalık yedekleme, güvenlik güncellemeleri, kesinti izleme, SSL ve alan adı süresi takibi ile her ay belirli bir değişiklik hakkı içerir. Başka bir ajansın yaptığı siteler de incelemeden sonra bakıma alınabilir.",
+      "kimlerIcin": [
+        "Sitesini yaptıran firmayla iletişimi kopmuş işletmeler",
+        "E ticaret sitesinde kesintinin doğrudan para kaybı olduğu mağazalar",
+        "Küçük değişiklikler için her seferinde teklif beklemek istemeyenler"
+      ],
+      "dahil": [
+        {
+          "baslik": "Haftalık yedek",
+          "aciklama": "Dosya ve veri tabanı yedeği ayrı bir konumda saklanır."
+        },
+        {
+          "baslik": "Güvenlik güncellemeleri",
+          "aciklama": "Altyapı, eklenti ve kütüphaneler düzenli güncellenir."
+        },
+        {
+          "baslik": "Kesinti izleme",
+          "aciklama": "Site erişilemez olduğunda biz haberdar oluruz."
+        },
+        {
+          "baslik": "SSL ve alan adı takibi",
+          "aciklama": "Süresi dolmadan yenilenir, tarayıcıda güvenli değil uyarısı çıkmaz."
+        },
+        {
+          "baslik": "Aylık değişiklik hakkı",
+          "aciklama": "Metin, görsel, fiyat ve küçük tasarım değişiklikleri pakete dahil."
+        },
+        {
+          "baslik": "Aylık rapor",
+          "aciklama": "Ziyaretçi, hız ve yapılan işlerin kısa özeti."
+        }
+      ],
+      "baslangicFiyati": "Aylık 1.000 TL",
+      "fiyatNotu": "KDV hariç, kurumsal site için",
+      "fiyatEtkenleri": [
+        "Sitenin kurumsal, e ticaret ya da uygulama olması",
+        "Aylık değişiklik saati",
+        "Hosting yönetiminin pakete dahil olup olmadığı"
+      ],
+      "teslimSuresi": "Aynı hafta başlar",
+      "sss": [
+        {
+          "soru": "Başka firmanın yaptığı siteye bakım veriyor musunuz?",
+          "cevap": "Evet. Önce siteyi inceleyip durum raporu çıkarıyoruz. Erişim bilgileri ve kaynak kod elinizdeyse bakıma alıyoruz."
+        },
+        {
+          "soru": "Sözleşme süresi var mı?",
+          "cevap": "Asgari süre yok. Aylık ödenir, istediğiniz ay bırakabilirsiniz."
+        }
+      ],
+      "ilgiliYazilar": [
+        "alan-adi-hosting-ssl-nedir",
+        "geo-nedir-yapay-zeka-aramalari"
+      ],
+      "gorsel": {
+        "src": "/hizmetler/bakim-ve-destek.jpg",
+        "alt": "Yeşil ışıklarla aydınlanan sunucu kabini ve kablolar"
+      },
+      "renk": "#2dd4bf"
+    }
+  ],
+  "yazilar": [
+    {
+      "kimlik": "web-sitesi-yaptirma-fiyatlari",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/web-sitesi-yaptirma-fiyatlari.jpg",
+        "alt": "Karanlık masada ekranı renkli ışıklarla parlayan dizüstü bilgisayar"
+      },
+      "slug": "web-sitesi-yaptirma-fiyatlari",
+      "baslik": "Web sitesi yaptırma fiyatları 2026, fiyatı gerçekte ne belirler?",
+      "seoBaslik": "Web Sitesi Yaptırma Fiyatları 2026, Neye Göre Değişir?",
+      "aciklama": "Aynı kurumsal site için birinden 5 bin, diğerinden 80 bin lira teklif almanızın sebebi. Fiyatı belirleyen kalemler, gizli maliyetler ve teklifleri karşılaştırma tablosu.",
+      "kategori": "Fiyatlar",
+      "tarih": "2026-10-05",
+      "kisaCevap": "2026 yılında web sitesi fiyatları birkaç bin liralık hazır tema kurulumlarından yüz binlerce liralık özel projelere kadar uzanır. Fiyatı belirleyen beş ana kalem vardır. Sayfa ve içerik miktarı, hazır tema mı özel tasarım mı olduğu, yönetim paneli, sanal POS, ERP ve kargo gibi entegrasyonlar ve teslim sonrası bakım. Teklifleri karşılaştırırken toplam rakama değil, bu kalemlerin her birinin dahil olup olmadığına bakın.",
+      "icerik": "\nWeb sitesi kaça yapılır sorusu, araba kaça alınır sorusuna benzer. Cevap, ne istediğinize göre birkaç bin liradan yüz binlere kadar değişir. Aynı ilana bir kişinin 5.000, diğerinin 80.000 lira teklif vermesi bu yüzden şaşırtıcı değil. Bu yazıda o farkın nereden geldiğini kalem kalem açıyoruz.\n\n## Fiyatı belirleyen beş kalem\n\n### 1. Hazır tema mı, özel tasarım mı?\n\nEn büyük fark buradan çıkar. Hazır temada tasarım zaten yapılmıştır, iş logonuzu ve metinlerinizi yerleştirmekten ibarettir. Özel tasarımda ise siteniz sizin müşterinize, sektörünüze ve satmak istediğiniz şeye göre sıfırdan kurgulanır.\n\nHazır tema kötü değildir. Bütçesi kısıtlı ve sadece bir sitemiz olsun diyen işletmeler için mantıklı olabilir. Ama sitenin müşteri getirmesi bekleniyorsa, rakiplerinizle aynı görünen bir tema işinizi zorlaştırır. Detaylı karşılaştırma için [hazır tema mı özel yazılım mı](/blog/hazir-tema-mi-ozel-yazilim-mi/) yazımıza bakabilirsiniz.\n\n### 2. Sayfa sayısı ve içerik\n\nBeş sayfalık bir tanıtım sitesi ile yirmi hizmet sayfası, blog ve referans bölümü olan bir site aynı iş değildir. Her sayfa tasarım, metin, görsel ve arama motoru düzenlemesi demektir. Metinleri kimin yazacağı da fiyatı etkiler. İçerik sizden geliyorsa ucuzlar, metin yazımı dahilse artar.\n\n### 3. Yönetim paneli\n\nMetinleri, fiyatları ve görselleri kendiniz değiştirebilmek istiyorsanız siteye bir yönetim paneli gerekir. Panelsiz sitelerde her küçük değişiklik için yazılımcıya dönersiniz. Bu da başta ucuz görünen siteyi uzun vadede pahalı yapar.\n\n### 4. Entegrasyonlar\n\nFiyatı en hızlı yükselten kalem budur.\n\n- **Sanal POS.** PayTR veya iyzico ile kartla ödeme almak için gerekir.\n- **ERP veya muhasebe bağlantısı.** Mikro, Logo ya da Netsis gibi sistemlerden stok ve fiyatın otomatik güncellenmesini sağlar.\n- **Kargo entegrasyonu.** Takip numarası otomatik oluşur.\n- **Özel modüller.** Randevu, rezervasyon ve üyelik gibi işlevler.\n\nHer biri ayrı geliştirme ve test süresi demektir.\n\n### 5. Teslimden sonrası\n\nSite yayına alındıktan sonra da masraf vardır. Alan adı yenilemesi, hosting, SSL takibi, güvenlik güncellemeleri ve yedekleme bunların başında gelir. Bazı teklifler bunları içerir, bazıları içermez. Karşılaştırırken mutlaka sorun.\n\n## Proje türlerine göre kapsam\n\nAşağıdaki tablo hangi işin hangi kalemleri içerdiğini ve ne kadar sürdüğünü gösterir. Teklifleri karşılaştırırken bu kalemlerin her birinin teklifte yazılı olup olmadığına bakın.\n\n| Proje türü | Süre | Neler dahil |\n|---|---|---|\n| Kurumsal tanıtım sitesi | 1 ile 3 hafta | 5 sayfa, özel tasarım, yönetim paneli, SEO altyapısı |\n| E ticaret sitesi | 2 ile 5 hafta | Sanal POS, ürün aktarımı, sipariş paneli |\n| Mobil uygulama | 4 ile 10 hafta | iOS ve Android, mağaza yayını, yönetim paneli |\n| Aylık bakım | Sürekli | Yedek, güncelleme, izleme, değişiklik hakkı |\n\n## Gizli maliyetlere dikkat\n\nUcuz tekliflerde sık karşılaşılan durumlar şunlardır.\n\n- **Alan adı ve hosting yazılımcının adına açılır.** Ayrılmak istediğinizde sitenizi taşıyamazsınız.\n- **Tema lisansı ve eklentiler ayrıca ücretlidir** ve her yıl yenilenir.\n- **Panel yoktur**, her değişiklik ücretlidir.\n- **Mobil uyum sonradan ek iş olarak çıkar.**\n- **Kaynak kod teslim edilmez.**\n\n> Teklifte alan adı, hosting ve tüm erişim bilgilerinin müşterinin adına açılacağı yazmıyorsa bunu yazılı olarak isteyin.\n\n## Teklifleri nasıl karşılaştırmalı?\n\nToplam rakama bakmak yerine şu soruları her teklif için ayrı ayrı yanıtlayın.\n\n1. Tasarım özel mi, hazır tema mı?\n2. Yönetim paneli var mı?\n3. Kaç sayfa ve hangi sayfalar dahil?\n4. Metin ve görsel kimden?\n5. Alan adı, hosting ve SSL kimin adına?\n6. Teslimden sonra kaç gün ücretsiz düzeltme var?\n7. Ödeme planı nasıl, tasarımı görmeden ne kadar ödüyorum?\n\nBu soruların tam listesi ve neden önemli oldukları için [web sitesi yaptırırken sorulacak 12 soru](/blog/web-sitesi-yaptirirken-sorulacak-sorular/) yazısına göz atın.\n\n## Sonuç\n\nWeb sitesi fiyatı, sitenin sizin için ne yapmasını beklediğinizle doğru orantılıdır. Sadece kartvizit niteliğinde bir sayfa istiyorsanız düşük bütçe yeterli olabilir. Siteden müşteri, sipariş veya randevu bekliyorsanız tasarım, panel ve altyapıya yapılan yatırım kendini kısa sürede geri öder.\n\nKalem kalem yazılı teklif için [iletişim formundan](/iletisim/) yazın.\n",
+      "sss": [
+        {
+          "soru": "En ucuz web sitesi kaça yapılır?",
+          "cevap": "Hazır tema kurulumları birkaç bin liraya yapılabilir. Ancak bu fiyatlarda genellikle yönetim paneli, özel tasarım, SEO altyapısı ve teslim sonrası destek bulunmaz."
+        },
+        {
+          "soru": "Web sitesi için yıllık ne kadar masraf yapılır?",
+          "cevap": "Alan adı, hosting ve SSL için yıllık birkaç bin lira yeterlidir. Bakım paketi alınırsa buna aylık bakım ücreti eklenir."
+        },
+        {
+          "soru": "Fiyata KDV dahil mi?",
+          "cevap": "Teklifleri karşılaştırırken mutlaka sorun. KAM fiyatları KDV hariçtir ve teklifte ayrıca belirtilir."
+        }
+      ],
+      "ilgiliHizmet": "kurumsal-web-sitesi"
+    },
+    {
+      "kimlik": "geo-nedir-yapay-zeka-aramalari",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/geo-nedir-yapay-zeka-aramalari.jpg",
+        "alt": "Devre kartı biçiminde çizilmiş yapay zekâ beyni"
+      },
+      "slug": "geo-nedir-yapay-zeka-aramalari",
+      "baslik": "GEO nedir? ChatGPT ve Google yapay zekâ cevaplarında görünmek",
+      "seoBaslik": "GEO Nedir? Yapay Zekâ Aramalarında Görünmek İçin Rehber",
+      "aciklama": "Üretken motor optimizasyonu, yani GEO nedir, SEO ile farkı ne, işletmeniz ChatGPT, Gemini, Perplexity ve Google AI Overviews cevaplarında nasıl yer alır?",
+      "kategori": "SEO ve GEO",
+      "tarih": "2026-10-05",
+      "kisaCevap": "GEO, yani Generative Engine Optimization ya da üretken motor optimizasyonu, bir web sitesinin ChatGPT, Gemini, Perplexity ve Google AI Overviews gibi yapay zekâ destekli arama araçlarının verdiği cevaplarda kaynak olarak gösterilmesi için yapılan çalışmadır. SEO çalışmasının devamıdır, çünkü yapay zekâ önce siteyi bulabilmeli ve okuyabilmelidir. Fark, içeriğin alıntılanabilir olmasıdır. Soruya doğrudan cevap veren kısa paragraflar, net tanımlar, tablolar, soru cevap bölümleri, yapılandırılmış veri ve yazarın ya da firmanın kim olduğunun açıkça belirtilmesi bunu sağlar.",
+      "icerik": "\nMüşterileriniz artık sadece Google arama kutusuna yazmıyor. İstanbul merkezli e ticaret sitesi yapan bir firma sorusunu ChatGPT ile soruyor, Google aramasının en üstünde gösterilen yapay zekâ özetini okuyup sayfayı hiç açmadan karar veriyor. GEO, bu yeni arama biçiminde görünür olmanın adıdır.\n\n## GEO ile SEO arasındaki fark\n\n| Kriter | SEO | GEO |\n|---|---|---|\n| Hedef | Arama sonuçlarında üst sıralar | Yapay zekâ cevabında kaynak olarak geçmek |\n| Kullanıcı | Bağlantıya tıklar | Cevabı okur, kaynağa gerekirse tıklar |\n| İçerik | Anahtar kelime ve kapsam | Alıntılanabilir, doğrudan cevaplar |\n| Ölçüm | Sıralama, tıklama | Bahsedilme, alıntılanma, marka aramaları |\n\nİkisi birbirinin alternatifi değildir. Yapay zekâ araçlarının çoğu cevap üretirken arama motorlarının dizinini kullanır. **Google aramasında bulunamayan bir sayfayı yapay zekâ da çoğu zaman bulamaz.** Bu yüzden GEO, sağlam bir SEO altyapısının üzerine kurulur.\n\n## Yapay zekâ bir sayfayı neden alıntılar?\n\nKesin algoritmalar açıklanmıyor, ancak gözlemlenen ortak noktalar şunlar.\n\n- **Soruya ilk paragrafta cevap veren** içerikler daha sık alıntılanır.\n- **Net tanımlar** kolayca özetlenir. Örneğin sanal POS, kartla ödeme almayı sağlayan sistemdir gibi.\n- **Tablolar ve listeler** karşılaştırma sorularında tercih edilir.\n- **Rakam, tarih ve süre gibi somut veriler** genel ifadelerden daha değerlidir.\n- **Kim tarafından yazıldığı belli** olan, güncel tarihli içerikler güvenilir sayılır.\n\n## Sitenizi GEO için hazırlamak\n\n### 1. Teknik erişilebilirlik\n\n- Sayfa içeriği **HTML olarak** sunulmalı. Sadece JavaScript ile sonradan yüklenen metinleri bazı tarayıcı botları göremez.\n- robots.txt dosyası GPTBot, ClaudeBot, PerplexityBot ve Google Extended gibi botları engellememeli. Tabii içeriğinizin kullanılmasını istiyorsanız.\n- sitemap.xml dosyasındaki site haritası güncel olmalı.\n- Sayfalar hızlı açılmalı.\n\n### 2. Yapılandırılmış veri\n\nSchema.org işaretlemesi, makinelere sayfanın ne olduğunu açıkça söyler.\n\n- **Organization ve ProfessionalService.** Firmanız kim, nerede, ne yapıyor.\n- **Service.** Sunduğunuz hizmetler.\n- **Article.** Blog yazıları, yazar ve tarih.\n- **FAQPage.** Soru cevap bölümleri.\n- **BreadcrumbList.** Sayfanın site içindeki yeri.\n\n### 3. Alıntılanabilir içerik\n\n- Her sayfanın başına **2 ile 4 cümlelik kısa bir cevap** koyun.\n- Başlıkları **müşterinin soracağı soru** biçiminde yazın. Örneğin E ticaret sitesi kaç günde açılır?\n- Her yazının sonuna **sık sorulan sorular** ekleyin.\n- Karşılaştırmaları **tabloya** dökün.\n\n### 4. llms.txt\n\nllms.txt, sitenizin kök dizinine konan ve dil modellerine sitenizin en önemli sayfalarını özetleyen bir metin dosyasıdır. Henüz bir standart değil ve tüm araçlar tarafından okunmuyor. Ancak eklemesi zahmetsiz olduğu için birçok site kullanmaya başladı.\n\n### 5. Marka sinyalleri\n\nYapay zekâ araçları bir firmayı önerirken sadece o firmanın sitesine değil, başka yerlerde hakkında söylenenlere de bakar. Google İşletme Profili, yorumlar, sektör rehberleri, haberler ve sosyal medya bunların başında gelir. Bu kanallarda tutarlı bir isim, adres ve hizmet tanımı kullanın.\n\n> Bu blogdaki her yazı bu ilkelere göre hazırlandı. En üstte kısa cevap, soru biçiminde başlıklar, tablolar, sonda sık sorulan sorular ve her sayfada yapılandırılmış veri var.\n\n## Ne beklemelisiniz?\n\nGEO, bir gecede sonuç veren bir çalışma değil. Yapay zekâ cevapları kişiye, konuma ve sorunun nasıl sorulduğuna göre değişir, bir sıralama garantisi vermek mümkün değildir. Gerçekçi hedef şudur. Müşteriniz sizin alanınızda bir soru sorduğunda, cevabın kaynakları arasında sizin sitenizin de bulunma ihtimalini artırmak.\n\nSitenizin SEO ve GEO açısından durumunu incelememizi isterseniz [bize yazın](/iletisim/). Sürekli takip için [bakım ve destek](/hizmetler/bakim-ve-destek/) hizmetimize göz atabilirsiniz.\n",
+      "sss": [
+        {
+          "soru": "GEO, SEO çalışmasının yerini mi alıyor?",
+          "cevap": "Hayır. Yapay zekâ araçları çoğunlukla arama motorlarının dizinini kullanır. İyi bir SEO altyapısı, GEO çalışmasının ön şartıdır."
+        },
+        {
+          "soru": "ChatGPT cevaplarında çıkmamı garanti edebilir misiniz?",
+          "cevap": "Hiç kimse garanti edemez, cevaplar kişiye ve soruya göre değişir. Yapılabilecek olan, sitenin bulunabilir, okunabilir ve alıntılanabilir olmasını sağlamaktır."
+        },
+        {
+          "soru": "Yapay zekâ botlarını engellemeli miyim?",
+          "cevap": "İçeriğinizin yapay zekâ cevaplarında kullanılmasını ve sitenizin kaynak olarak gösterilmesini istiyorsanız engellememelisiniz. İçeriğinizi korumak istiyorsanız robots.txt ile engelleyebilirsiniz."
+        }
+      ],
+      "ilgiliHizmet": "seo-ve-geo"
+    },
+    {
+      "kimlik": "e-ticaret-sitesi-kurmak-icin-gerekenler",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/e-ticaret-sitesi-kurmak-icin-gerekenler.jpg",
+        "alt": "Telefonla sipariş kontrol eden ve kargo paketlerini hazırlayan satıcı"
+      },
+      "slug": "e-ticaret-sitesi-kurmak-icin-gerekenler",
+      "baslik": "E ticaret sitesi kurmak için gerekenler, adım adım kontrol listesi",
+      "seoBaslik": "E Ticaret Sitesi Kurmak İçin Gerekenler, 2026 Kontrol Listesi",
+      "aciklama": "Şirket, vergi levhası, sanal POS, yasal sözleşmeler, ürün verisi ve kargo. Online satışa başlamadan önce hazırlamanız gereken her şey, sırasıyla.",
+      "kategori": "E ticaret",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Türkiye genelinde e ticaret sitesi kurmak için bir şirket, vergi levhası, banka hesabı, PayTR veya iyzico gibi bir sanal POS, alan adı ve SSL, mesafeli satış sözleşmesi ile KVKK metinleri, görsel, açıklama, fiyat ve stok bilgisini içeren ürün verisi ve bir kargo anlaşması gerekir. Şahıs şirketi yeterlidir. Sanal POS onayı genelde birkaç iş günü sürdüğü için başvuruyu en başta yapmak işleri hızlandırır.",
+      "icerik": "\nOnline satışa başlamak isteyen işletmelerin çoğu işe tasarımdan başlar. Oysa sitenin açılmasını en çok geciktiren şeyler tasarım değil, sanal POS onayı, eksik ürün verisi ve yasal metinlerdir. Bu listeyi sırayla takip ederseniz yazılım bittiğinde satışa hazır olursunuz.\n\n## 1. Şirket ve vergi levhası\n\nKartla ödeme alabilmek için bir şirkete ihtiyacınız var. **Şahıs şirketi yeterlidir**, limited veya anonim şirket şart değildir. Vergi levhası, sanal POS başvurusunda istenen ilk belgedir.\n\nEv hanımları ve el emeği ürün satanlar için esnaf muafiyeti gibi farklı seçenekler de bulunur, ancak bu durumda kartla tahsilat seçenekleri sınırlıdır. Mali müşavirinizle konuşmanızı öneririz.\n\n## 2. Sanal POS başvurusu\n\nSanal POS, sitenizde kredi kartıyla ödeme almanızı sağlayan altyapıdır. Küçük ve orta ölçekli işletmeler genellikle bir ödeme kuruluşu üzerinden çalışır.\n\n- **PayTR**\n- **iyzico**\n- **Bankaların kendi sanal POS hizmetleri.** Başvuru daha uzun sürer, genelde daha yüksek ciro beklenir.\n\nBaşvuru için genellikle vergi levhası, imza sirküleri veya beyannamesi, kimlik ve banka hesap bilgisi istenir. Ödeme kuruluşu, sitenizde yasal sayfaların bulunup bulunmadığını da kontrol eder. İki sağlayıcının farkları için [sanal POS karşılaştırması](/blog/sanal-pos-nedir-paytr-iyzico/) yazımıza bakın.\n\n> Sanal POS başvurusunu sitenin yapımıyla aynı gün başlatın. Onay beklerken geliştirme devam eder, kimse kimseyi beklemez.\n\n## 3. Alan adı, hosting ve SSL\n\n- **Alan adı.** Markanızın adıdır. .com.tr uzantısı yurt içindeki müşteriler için güven verir.\n- **Hosting.** Sitenin çalıştığı sunucudur. E ticarette ucuz paylaşımlı hostingten kaçının, yavaş site satış kaybettirir.\n- **SSL.** Adres çubuğundaki kilit simgesidir. Ödeme alan bir sitede zorunludur.\n\nÜçü de **sizin adınıza** açılmalıdır. Detaylar için [alan adı, hosting ve SSL nedir](/blog/alan-adi-hosting-ssl-nedir/) yazısına bakabilirsiniz.\n\n## 4. Yasal metinler\n\nOnline satış yapan her sitede bulunması gereken sayfalar şunlardır.\n\n1. Mesafeli satış sözleşmesi\n2. Ön bilgilendirme formu\n3. İptal ve iade koşulları\n4. KVKK aydınlatma metni\n5. Çerez politikası\n6. Gizlilik politikası\n\nBu metinler işletmenize göre düzenlenmelidir. İnternetten kopyalanan metinler hem yanlış bilgi içerebilir hem de ödeme kuruluşunun incelemesinde sorun çıkarabilir. Kesin metinler için bir hukukçuya danışmanızı öneririz.\n\n## 5. Ürün verisi\n\nSitenin en çok emek isteyen kısmı budur ve çoğu zaman yazılımcının değil sizin hazırlamanız gerekir.\n\n- **Ürün adı ve kodu.** Stok kodu ileride ERP bağlantısında hayat kurtarır.\n- **Açıklama.** Ölçü, malzeme ve kullanım alanı.\n- **Görsel.** Beyaz zeminli, aynı oranda ve en az 1000 piksel.\n- **Fiyat ve KDV oranı**\n- **Stok adedi**\n- **Varyantlar.** Beden, renk ve ölçü gibi seçenekler.\n- **Kategori**\n\nÜrünleriniz bir Excel dosyasında, bir ERP sisteminde ya da Trendyol gibi bir pazaryerinde zaten varsa toplu aktarım yapılabilir. Örneğin [Zenomax](https://zenomaxelaletleri.com) mağazasında 8.962 ürün, ERP sisteminden alınan stok listesinden otomatik olarak aktarıldı.\n\n## 6. Kargo\n\nBir kargo firmasıyla anlaşma yapın. Kurumsal anlaşmalarda fiyatlar bireysel gönderiye göre belirgin şekilde düşer. Karar vermeniz gerekenler şunlardır.\n\n- Kargo ücretini kim ödeyecek, ücretsiz kargo sınırı olacak mı?\n- Gönderiler kaç iş gününde çıkacak?\n- İadeler nasıl dönecek?\n\n## 7. Yönetim ve operasyon\n\nSite açıldıktan sonra her gün kullanacağınız ekran yönetim panelidir. Kurulumdan önce şunları netleştirin.\n\n- Siparişleri kim takip edecek?\n- Stok nereden güncellenecek, panelden mi ERP sisteminden mi?\n- Bayilere farklı fiyat gösterilecek mi? Öyleyse bir [B2B bayi sistemi](/blog/b2b-bayi-siparis-sistemi/) gerekir.\n\n## Özet kontrol listesi\n\n| Adım | Kimden | Süre |\n|---|---|---|\n| Şirket ve vergi levhası | Siz ve mali müşaviriniz | Değişken |\n| Sanal POS başvurusu | Siz ve yazılımcı | Birkaç iş günü |\n| Alan adı, hosting, SSL | Yazılımcı, sizin adınıza | 1 gün |\n| Yasal metinler | Siz ve hukukçu | 1 ile 3 gün |\n| Ürün verisi | Siz | Ürün sayısına bağlı |\n| Kargo anlaşması | Siz | 1 ile 5 gün |\n| Tasarım ve yazılım | Yazılımcı | 2 ile 5 hafta |\n\nE ticaret sitesi kurulumu için kalem kalem teklif almak isterseniz [e ticaret hizmet sayfamıza](/hizmetler/e-ticaret-sitesi/) göz atın.\n",
+      "sss": [
+        {
+          "soru": "Şirketim olmadan e ticaret sitesi açabilir miyim?",
+          "cevap": "Site açılabilir, ancak kartla ödeme almak için sanal POS gerekir ve sanal POS başvurusu vergi levhası ister. En pratik çözüm bir şahıs şirketi kurmaktır."
+        },
+        {
+          "soru": "E ticaret sitesi kaç günde açılır?",
+          "cevap": "Yazılım tarafı genellikle 2 ile 5 hafta sürer. Ürün verisi ve sanal POS onayı paralel yürütülürse site, yazılım biter bitmez satışa açılabilir."
+        },
+        {
+          "soru": "Pazaryerinde satıyorum, ayrıca site gerekli mi?",
+          "cevap": "Pazaryeri hızlı satış sağlar ama komisyon keser ve müşteri bilgisi sizde kalmaz. Kendi siteniz, tekrar eden müşterilerle komisyonsuz satış yapmanızı sağlar. İkisini birlikte yürütmek yaygın bir yöntemdir."
+        }
+      ],
+      "ilgiliHizmet": "e-ticaret-sitesi"
+    },
+    {
+      "kimlik": "sanal-pos-nedir-paytr-iyzico",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/sanal-pos-nedir-paytr-iyzico.jpg",
+        "alt": "Ödeme cihazına kredi kartı takan müşteri"
+      },
+      "slug": "sanal-pos-nedir-paytr-iyzico",
+      "baslik": "Sanal POS nedir? PayTR ve iyzico seçerken bakılacaklar",
+      "seoBaslik": "Sanal POS Nedir? PayTR mi iyzico mu? Karşılaştırma Rehberi",
+      "aciklama": "Sanal POS nasıl çalışır, ödeme kuruluşu ile banka POS hizmeti arasındaki fark nedir ve PayTR ile iyzico arasında seçim yaparken hangi kriterler karşılaştırılmalıdır?",
+      "kategori": "E ticaret",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Sanal POS, web sitesinde veya uygulamada kredi kartıyla ödeme almayı sağlayan sistemdir. Küçük ve orta ölçekli işletmeler genelde PayTR veya iyzico gibi ödeme kuruluşlarını kullanır, çünkü başvuru bankalara göre daha hızlıdır ve birçok bankanın taksit seçeneği tek entegrasyonla gelir. Seçim yaparken komisyon oranına, paranın hesaba geçme süresine, taksit seçeneklerine ve entegrasyon kolaylığına bakılmalıdır. Oranlar sık değiştiği için güncel teklifi doğrudan sağlayıcıdan alın.",
+      "icerik": "\nBir web sitesinden kartla ödeme almanın tek yolu bir sanal POS kullanmaktır. Mağazadaki fiziki POS cihazının internetteki karşılığı olarak düşünebilirsiniz. Müşteri kart bilgisini girer, banka onaylar, para hesabınıza geçer.\n\n## Sanal POS nasıl çalışır?\n\n1. Müşteri sepeti onaylar ve kart bilgisini girer.\n2. Kart bilgisi **sizin sitenize değil**, ödeme sağlayıcının güvenli sayfasına gider.\n3. Banka, müşterinin telefonuna SMS ile 3D Secure doğrulama kodu gönderir.\n4. Onay gelirse ödeme sağlayıcı sitenize ödemenin başarılı olduğunu bildirir.\n5. Site siparişi ancak bu bildirim doğrulandıktan sonra onaylar.\n\nBeşinci adım önemlidir. Sadece müşterinin tarayıcısında başarılı sayfasının görünmesine güvenen siteler, ödeme alınmadığı halde sipariş onaylayabilir. Doğru kurulumda sipariş, ödeme sağlayıcının sunucudan gönderdiği imzalı bildirimle onaylanır.\n\n> Kart bilgisi hiçbir zaman sizin sunucunuzdan geçmez. Bu yüzden küçük bir işletme olarak kart verisini saklama yükümlülüğünüz oluşmaz.\n\n## Ödeme kuruluşu mu, banka sanal POS hizmeti mi?\n\n| Kriter | Ödeme kuruluşu, örneğin PayTR veya iyzico | Banka sanal POS hizmeti |\n|---|---|---|\n| Başvuru | Genelde birkaç iş günü, online | Daha uzun, şubeye bağlı |\n| Taksit | Birçok bankanın kartı tek entegrasyonla | Çoğunlukla o bankanın kartları |\n| Ciro beklentisi | Düşük cirolu işletmeleri de kabul eder | Genelde belirli bir hacim bekler |\n| Komisyon | Yüksek ciroda bankaya göre biraz yüksek olabilir | Hacim arttıkça pazarlık payı artar |\n\nYeni başlayan ve orta ölçekli işletmeler için ödeme kuruluşu çoğu zaman en pratik seçenektir. Aylık cironuz yükseldiğinde banka sanal POS hizmetine geçmek veya ikisini birlikte kullanmak değerlendirilebilir.\n\n## PayTR ve iyzico karşılaştırılırken bakılacaklar\n\nİki sağlayıcı da Türkiye genelinde lisanslı ödeme kuruluşudur, 3D Secure ve taksitli ödeme sunar ve yaygın e ticaret altyapılarıyla çalışır. Aralarında seçim yaparken şu kriterlere göre teklif isteyin.\n\n- **Komisyon oranı.** Tek çekim ve taksitli işlemler için ayrı ayrı sorun.\n- **Paranın hesaba geçme süresi.** Aynı gün mü, birkaç gün sonra mı? Erken ödeme seçeneklerinin oranı farklı olabilir.\n- **Taksit seçenekleri.** Hangi bankaların kartlarında kaç taksit var, vade farkını kim üstleniyor?\n- **İade süreci.** Panelden kısmi iade yapılabiliyor mu?\n- **Linkle ödeme.** Siteniz olmadan WhatsApp üzerinden ödeme linki gönderebiliyor musunuz?\n- **Müşteri desteği.** Sorun yaşadığınızda telefonla birine ulaşabiliyor musunuz?\n\n> Oranlar kampanyalara ve ciroya göre sık değiştiği için bu yazıda rakam vermiyoruz. Her iki sağlayıcıdan da cironuzu belirterek yazılı teklif alın.\n\n## Tek site, iki sağlayıcı\n\nBazı işletmeler iki sağlayıcıyla da anlaşır ve yönetim panelinden hangisinin aktif olacağını seçer. Bir sağlayıcıda sorun olduğunda veya oranlar değiştiğinde, kod değiştirmeden diğerine geçmek mümkün olur. Geliştirdiğimiz bazı projelerde PayTR ve iyzico birlikte entegre ve panelden tek tıkla değiştirilebiliyor.\n\n## Kurulumda sık yapılan hatalar\n\n- **Test modunda kalmak.** Canlı anahtarlar girilmeden site yayına alınır, ödemeler gerçekleşmez.\n- **Bildirim adresini kurmamak.** Ödeme alınır ama sipariş beklemede kalır.\n- **Tutarı tarayıcıdan almak.** Kötü niyetli biri sepet tutarını değiştirebilir. Tutar her zaman sunucuda yeniden hesaplanmalıdır.\n- **Yasal sayfaların eksik olması.** Başvuru onayı gecikir.\n\nSitenize sanal POS kurulumu veya mevcut entegrasyonunuzun kontrolü için [e ticaret hizmetimize](/hizmetler/e-ticaret-sitesi/) göz atabilirsiniz.\n",
+      "sss": [
+        {
+          "soru": "Sanal POS için şirket şart mı?",
+          "cevap": "Evet, ödeme kuruluşları ve bankalar vergi levhası ister. Şahıs şirketi yeterlidir."
+        },
+        {
+          "soru": "Sanal POS başvurusu ne kadar sürer?",
+          "cevap": "Ödeme kuruluşlarında belgeler tamsa genelde birkaç iş günü sürer. Sitenizde yasal sayfaların hazır olması onayı hızlandırır."
+        },
+        {
+          "soru": "Kart bilgileri benim sitemde saklanıyor mu?",
+          "cevap": "Hayır. Doğru kurulumda kart bilgisi ödeme sağlayıcının güvenli sayfasında girilir ve sizin sunucunuza hiç ulaşmaz."
+        }
+      ],
+      "ilgiliHizmet": "e-ticaret-sitesi"
+    },
+    {
+      "kimlik": "mobil-uygulama-yaptirma-maliyeti",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/mobil-uygulama-yaptirma-maliyeti.jpg",
+        "alt": "Elde tutulan telefonda açık bir mobil uygulama ekranı"
+      },
+      "slug": "mobil-uygulama-yaptirma-maliyeti",
+      "baslik": "Mobil uygulama yaptırma maliyeti, bütçeyi neler belirler?",
+      "seoBaslik": "Mobil Uygulama Yaptırma Maliyeti 2026, iOS ve Android",
+      "aciklama": "Mobil uygulamanın fiyatını belirleyen kalemler, mağaza hesap ücretleri, Apple ve Google komisyonları ve Flutter ile maliyetin nasıl düştüğü.",
+      "kategori": "Mobil",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Mobil uygulama maliyetini ekran sayısı, kullanıcı rolleri, ödeme ve abonelik ihtiyacı, harita, kamera ve bildirim gibi cihaz özellikleri ve yönetim paneli belirler. Flutter gibi çapraz platform araçlarla iOS ve Android tek kod tabanından geliştirildiği için maliyet iki ayrı uygulamaya göre belirgin şekilde düşer. Geliştirme ücretine ek olarak Apple Developer Program için yıllık 99 dolar, Google Play geliştirici hesabı için tek seferlik 25 dolar ödenir.",
+      "icerik": "\nMobil uygulama, web sitesine göre daha pahalıdır. Bunun üç sebebi var. İki ayrı platform olan iOS ve Android, mağaza inceleme süreci ve uygulamanın arkasında çalışan bir sunucu ile yönetim paneli ihtiyacı. Bu yazıda bütçenizi neyin belirlediğini ve nerede tasarruf edebileceğinizi anlatıyoruz.\n\n## Maliyeti belirleyen kalemler\n\n### Ekran sayısı ve kullanıcı rolleri\n\nSadece müşterinin kullandığı 10 ekranlık bir uygulama ile müşteri, işletme ve yönetici olmak üzere üç farklı rolün kullandığı bir pazaryeri aynı iş değildir. Her rol, kendi ekranları ve yetkileri demektir.\n\n### Ödeme ve abonelik\n\nUygulamanın içinde premium üyelik, abonelik veya jeton gibi dijital bir şey satıyorsanız Apple ve Google kendi ödeme sistemlerini kullanmanızı zorunlu tutar. Bu, ayrı bir entegrasyon ve sunucu tarafında makbuz doğrulaması demektir. Fiziksel ürün veya hizmet satışında ise normal sanal POS kullanılabilir.\n\n### Cihaz özellikleri\n\n- Harita ve konum\n- Kamera ve QR okuma\n- Anlık bildirim\n- Mesajlaşma ve canlı veri\n\nHer biri ayrı izin metni, test ve mağaza incelemesi gerektirir.\n\n### Yönetim paneli\n\nUygulamadaki kullanıcıları, içerikleri, siparişleri ve bildirimleri yönetmek için bir web paneline ihtiyaç vardır. Çoğu teklifte unutulan ama projenin en çok kullanılan parçası olan kalem budur.\n\n## Flutter ile maliyet neden düşer?\n\nEskiden iOS için Swift, Android için Kotlin ile iki ayrı uygulama yazılırdı. Flutter ile tek kod tabanından iki platform için uygulama çıkar.\n\n- Geliştirme süresi kısalır.\n- Her güncelleme iki platforma aynı anda gelir.\n- Hata düzeltmeleri tek yerde yapılır.\n\nPazaryeri, rezervasyon, sipariş ve sadakat gibi çoğu iş uygulamasında Flutter performansı yerel uygulamalarla aynı seviyededir.\n\n## Mağaza ücretleri ve komisyonlar\n\n| Kalem | Apple App Store | Google Play |\n|---|---|---|\n| Geliştirici hesabı | Yıllık 99 dolar | Tek seferlik 25 dolar |\n| Dijital ürün komisyonu | Genelde yüzde 15 veya yüzde 30 | Genelde yüzde 15 veya yüzde 30 |\n| Fiziksel ürün veya hizmet | Komisyon yok, sanal POS kullanılır | Komisyon yok, sanal POS kullanılır |\n\nKüçük geliştirici programlarında komisyon yüzde 15 seviyesine düşebilir. Kesin oranlar ve şartlar mağazaların güncel politikalarına bağlıdır.\n\n> Mağaza hesaplarını kendi şirketiniz adına açtırın. Yazılımcının hesabında yayınlanan uygulamayı daha sonra devralmak zahmetlidir.\n\n## Mağaza reddi neden olur?\n\nİlk gönderimde ret almak yaygındır. En sık sebepler şunlardır.\n\n1. **Hesap silme seçeneğinin olmaması.** Kullanıcı kaydı olan her uygulamada zorunludur.\n2. **Kullanıcı içeriği için şikâyet ve engelleme yokluğu.** Yorum, ilan veya mesaj olan uygulamalarda istenir.\n3. **İzin metinlerinin belirsizliği.** Konumunuza neden ihtiyacımız var sorusu net yanıtlanmalıdır.\n4. **Dijital satışta mağaza ödeme sistemini kullanmamak.**\n5. **Demo hesap verilmemesi.** İncelemeci uygulamaya giriş yapamazsa reddeder.\n\nBunları baştan kurmak, yayın tarihinizi haftalarca öne çeker.\n\n## Bütçeyi düşürmenin yolları\n\n- **İlk sürümü küçük tutun.** En önemli 3 ya da 4 özellikle yayına çıkın, gerisini kullanıcı geri bildirimine göre ekleyin.\n- **Web panelinden başlayın.** Bazı fikirler önce bir web uygulamasıyla test edilebilir.\n- **Hazır servisleri kullanın.** Kimlik doğrulama, veri tabanı ve bildirim için Supabase veya Firebase gibi servisler sıfırdan sunucu yazmaktan ucuzdur.\n\nUygulama fikriniz için kapsam ve fiyat çıkarmak isterseniz [mobil uygulama hizmet sayfamıza](/hizmetler/mobil-uygulama/) göz atın.\n",
+      "sss": [
+        {
+          "soru": "Mobil uygulama kaç ayda biter?",
+          "cevap": "Basit bir uygulama 4 ile 6 haftada, pazaryeri veya abonelikli bir uygulama 2 ile 3 ayda mağazaya çıkar. Mağaza inceleme süresi de hesaba katılmalıdır."
+        },
+        {
+          "soru": "Uygulama için ayrıca sunucu ücreti öder miyim?",
+          "cevap": "Evet, uygulamanın verisi bir sunucuda veya bulut serviste tutulur. Küçük ölçekli uygulamalarda bu maliyet aylık düşük tutarlardan başlar ve kullanıcı sayısıyla artar."
+        },
+        {
+          "soru": "Sadece Android yapıp sonra iOS eklesek?",
+          "cevap": "Flutter ile bu mümkün ve ucuzdur, çünkü kod aynıdır. Ancak iPhone kullanıcıları satın alma gücü yüksek bir kitle olduğu için ikisini birlikte yayınlamak genellikle daha mantıklıdır."
+        }
+      ],
+      "ilgiliHizmet": "mobil-uygulama"
+    },
+    {
+      "kimlik": "b2b-bayi-siparis-sistemi",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/b2b-bayi-siparis-sistemi.jpg",
+        "alt": "Raflarında koliler dizili büyük bir depo"
+      },
+      "slug": "b2b-bayi-siparis-sistemi",
+      "baslik": "B2B bayi sipariş sistemi, toptancılar için online sipariş",
+      "seoBaslik": "B2B Bayi Sipariş Sistemi, Toptancılar İçin Online Sipariş",
+      "aciklama": "Bayilerinize özel fiyat gösteren, ERP sisteminden stok çeken ve siparişi telefondan web sitesine taşıyan B2B sistemi nasıl çalışır? 8.962 ürünlü canlı örnek üzerinden.",
+      "kategori": "E ticaret",
+      "tarih": "2026-10-05",
+      "kisaCevap": "B2B bayi sipariş sistemi, toptancının bayilerine özel bir giriş sunduğu ve her bayinin kendi iskontolu fiyatını, güncel stoğu ve cari bilgisini görerek sipariş verebildiği online mağazadır. Telefonla ve WhatsApp ile alınan siparişleri web sitesine taşıyarak hata ve zaman kaybını azaltır. Ürün ve fiyat verisi genellikle Mikro, Logo veya Netsis gibi bir ERP sisteminden otomatik aktarılır.",
+      "icerik": "\nToptan satış yapan firmaların çoğunda sipariş hâlâ telefonla, WhatsApp mesajıyla veya faksla gelir. Satış temsilcisi siparişi yazar, fiyatı listeden bakar, iskontoyu elle hesaplar ve sisteme girer. Bu akışta her adım bir hata ihtimalidir. B2B bayi sistemi bu akışı bayinin kendisine bırakır.\n\n## B2B ile B2C arasındaki fark\n\n| Kriter | B2C, perakende | B2B, bayi |\n|---|---|---|\n| Müşteri | Son kullanıcı | Kayıtlı bayi veya firma |\n| Fiyat | Herkese aynı | Bayiye göre farklı |\n| Giriş | İsteğe bağlı | Genellikle zorunlu |\n| Ödeme | Kart | Kart, havale, cari hesap, vadeli |\n| Sipariş | Birkaç ürün | Yüzlerce kalem, toplu |\n| Hesap açma | Müşteri kendisi | Yönetici onaylar |\n\n## Bir bayi sisteminde olması gerekenler\n\n### Bayiye özel fiyat\n\nEn temel özellik budur. Her bayi bir **iskonto kademesine** atanır ve giriş yaptığında ürünleri kendi fiyatıyla görür. Giriş yapmamış ziyaretçi ise liste fiyatını görür ya da hiç fiyat görmez.\n\n### Hesap açmayı yönetici yapar\n\nBayi hesapları genellikle yönetim panelinden açılır veya başvuru onaya düşer. Böylece kimin hangi fiyatı göreceği kontrol altında kalır.\n\n### ERP sisteminden ürün ve stok aktarımı\n\nÜrün kartları Mikro, Logo veya Netsis gibi bir ERP sisteminde zaten duruyorsa site bu veriyi kullanmalıdır. İki yerde ayrı ayrı ürün tutmak kısa sürede tutarsızlığa yol açar.\n\n### Döviz bazlı fiyat\n\nİthal ürün satan firmalarda liste fiyatı dolar veya euro cinsindendir. Fiyatı siteye TL olarak sabit yazmak yerine **liste fiyatı, güncel kur ve KDV çarpılarak** anlık hesaplamak, kur değiştiğinde fiyatların otomatik güncellenmesini sağlar.\n\n### Hızlı sipariş\n\nBayi, katalogda gezinmek yerine ürün kodunu bilir. Ürün koduyla arama, sepete adet girerek toplu ekleme ve geçmiş siparişi tekrarlama gibi kısa yollar sipariş süresini belirgin şekilde kısaltır.\n\n### Çoklu depo\n\nBirden fazla deposu olan firmalarda stok depo bazında gösterilir, bayi ürünün hangi depodan çıkacağını görür.\n\n## Canlı örnek, Zenomax\n\n[Zenomax](https://zenomaxelaletleri.com) el aletleri toptan satış mağazasında bu yapı kuruldu.\n\n- **8.962 ürün** ve 22 kategori, ERP sisteminden alınan stok listesinden aktarıldı.\n- Fiyatlar kayıtta tutulmuyor, her gösterimde liste fiyatı, kur ve KDV ile hesaplanıyor.\n- Fiyatı olmayan veya dövizli ürünlerde fiyat sorunuz yazısı gösteriliyor.\n- Merkez ve Yenibosna olmak üzere iki depo ayrı ayrı takip ediliyor.\n- Bayi hesapları panelden açılıyor, bayinin kademesi gördüğü fiyatı belirliyor.\n\n> Bayi sistemlerinde en kritik konu güvenliktir. Bayi fiyatları sunucuda hesaplanmalı ve giriş yapmamış birine hiçbir yoldan sızmamalıdır.\n\n## Ne kazandırır?\n\n- Telefonda sipariş yazma ve fiyat bakma süresi ortadan kalkar.\n- Elle iskonto hesabından kaynaklanan hatalar biter.\n- Bayi mesai dışında da sipariş verebilir.\n- Satış ekibi sipariş toplamak yerine yeni bayi bulmaya vakit ayırır.\n\n## Kurulum süreci\n\n1. Ürün ve fiyat verisinin kaynağını belirleme, örneğin ERP veya Excel\n2. İskonto kademelerini ve bayi gruplarını tanımlama\n3. Kart, havale veya cari hesap gibi ödeme yöntemlerini seçme\n4. Tasarım ve geliştirme\n5. Pilot bayilerle test\n6. Tüm bayilere açılış\n\nFirmanız için bayi sistemi kurmayı düşünüyorsanız [e ticaret hizmet sayfamızda](/hizmetler/e-ticaret-sitesi/) detayları bulabilir veya doğrudan [bize yazabilirsiniz](/iletisim/).\n",
+      "sss": [
+        {
+          "soru": "B2B ve B2C aynı sitede olabilir mi?",
+          "cevap": "Evet. Giriş yapmayan ziyaretçi perakende fiyatı, giriş yapan bayi kendi iskontolu fiyatını görür. Tek site ve tek ürün kataloğu ile iki kanal yönetilir."
+        },
+        {
+          "soru": "Hangi ERP sistemleriyle entegre olur?",
+          "cevap": "Mikro, Logo ve Netsis gibi yaygın ERP sistemlerinden Excel veya XML dışa aktarımıyla ya da API ile veri alınabilir. Entegrasyon yöntemi ERP sürümüne ve lisansına göre belirlenir."
+        }
+      ],
+      "ilgiliHizmet": "e-ticaret-sitesi"
+    },
+    {
+      "kimlik": "hazir-tema-mi-ozel-yazilim-mi",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/hazir-tema-mi-ozel-yazilim-mi.jpg",
+        "alt": "Dizüstü bilgisayar ekranında açık yazılım kodu"
+      },
+      "slug": "hazir-tema-mi-ozel-yazilim-mi",
+      "baslik": "Hazır tema mı, özel yazılım mı? Hangisi kimin işine yarar",
+      "seoBaslik": "Hazır Tema mı Özel Yazılım mı? WordPress, Shopify ve Özel Kod",
+      "aciklama": "WordPress teması, Shopify ve özel yazılımın artıları ve eksileri. Hangi işletme için hangisinin mantıklı olduğunu karar tablosuyla anlatıyoruz.",
+      "kategori": "Rehber",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Hazır tema, bütçesi kısıtlı, sadece tanıtım sayfası isteyen ve özel işlev gerektirmeyen işletmeler için yeterlidir. Shopify gibi kiralık platformlar küçük kataloglu mağazalara hızlı başlangıç sağlar ama aylık ücret ve yerel ihtiyaçlarda kısıt getirir. Özel yazılım ise bayi fiyatı, ERP bağlantısı, randevu ve üyelik gibi işe özel akışlar, yüksek hız ve uzun vadeli sahiplik gerektiğinde doğru seçimdir.",
+      "icerik": "\nWeb sitesi yaptırmaya karar veren hemen herkes bir noktada bu soruyla karşılaşır. Bir taraf WordPress yeter der, diğeri özel yazılım şart der. Gerçek şu ki üç seçeneğin de doğru olduğu durumlar var. Önemli olan, sizin işinizin hangisine uyduğu.\n\n## Üç seçenek kısaca\n\n- **Hazır tema.** Genellikle WordPress üzerinde, önceden tasarlanmış bir şablona sizin içeriğiniz yerleştirilir.\n- **Kiralık platform.** Shopify, Ticimax veya İdeasoft gibi altyapıları aylık ücret karşılığında kiralarsınız.\n- **Özel yazılım.** Site sizin ihtiyacınıza göre sıfırdan yazılır, kod size aittir.\n\n## Karşılaştırma\n\n| Kriter | Hazır tema | Kiralık platform | Özel yazılım |\n|---|---|---|---|\n| Başlangıç maliyeti | Düşük | Düşük | Orta ile yüksek arası |\n| Aylık maliyet | Hosting ve eklenti lisansları | Abonelik, bazen satış komisyonu | Hosting, isteğe bağlı bakım |\n| Tasarım özgünlüğü | Rakiplerle benzer | Şablon sınırlarında | Tamamen size özel |\n| Hız | Eklentiye göre yavaşlayabilir | İyi | En iyi |\n| Özel işlev | Eklenti ile, sınırlı | Uygulama mağazası ile, sınırlı | Sınırsız |\n| Sahiplik | Kod sizde | Platformda | Kod sizde |\n| Taşınabilirlik | Kolay | Zor | Kolay |\n\n## Hazır tema ne zaman yeterli?\n\n- Sadece bizi arayanlar bir şey görsün diyorsanız\n- İçerik az ve nadiren değişiyorsa\n- Bütçeniz gerçekten kısıtlıysa\n\nDikkat edilmesi gerekenler şunlar. Tema lisansının kime ait olduğu, eklentilerin yıllık ücretleri ve güncelleme yapılmadığında oluşan güvenlik açıkları. WordPress, dünyada en çok saldırıya uğrayan altyapılardan biridir, çünkü en çok kullanılandır. Güncellenmeyen bir WordPress sitesi bir gün kendiliğinden bozulabilir.\n\n## Kiralık platform ne zaman mantıklı?\n\n- Az sayıda ürünle e ticarete hızlı başlamak istiyorsanız\n- Teknik hiçbir işle uğraşmak istemiyorsanız\n- Standart bir mağaza yapısı işinizi görüyorsa\n\nSınırlarına genellikle büyüdükçe takılırsınız. Bayilere farklı fiyat göstermek, ürünleri ERP sisteminden otomatik çekmek, döviz bazlı fiyat hesaplamak ya da kendi kargo kurallarınızı yazmak gibi ihtiyaçlar çoğu zaman eklentilerle tam karşılanmaz. Ayrıca abonelik ücreti, siteniz var olduğu sürece ödenir.\n\n## Özel yazılım ne zaman doğru seçim?\n\n- Bayi sistemi, randevu, teklif hesaplama veya üyelik gibi işinize özel bir akış varsa\n- Ürün ve fiyat verisi ERP veya Excel gibi başka bir sistemden gelecekse\n- Hız ve arama motoru performansı satışınızı doğrudan etkiliyorsa\n- Uzun vadede aylık abonelik ödemek istemiyorsanız\n\nÖrneğin [Zenomax](https://zenomaxelaletleri.com) mağazasında fiyatlar kayıtlı değil. Her gösterimde liste fiyatı, döviz kuru ve KDV çarpılarak hesaplanıyor ve bayiler kendi iskonto kademesini görüyor. Bu tür bir mantığı hazır bir platformda kurmak ya mümkün değil ya da çok pahalı.\n\n> Özel yazılımda en önemli soru, kaynak kodun ve tüm erişimlerin size teslim edilip edilmeyeceğidir. Cevap evet değilse, özel yazılımın en büyük avantajını kaybedersiniz.\n\n## Karar vermek için üç soru\n\n1. **Sitemden ne bekliyorum?** Sadece görünür olmak mı, satış ve talep toplamak mı?\n2. **İşimde başka hiçbir yerde olmayan bir kural var mı?** Fiyat hesaplama, bayi, randevu, stok?\n3. **Bu site 3 yıl sonra ne yapıyor olmalı?**\n\nİlk sorunun cevabı sadece görünür olmaksa hazır tema yeterlidir. Diğer iki sorudan birine evet diyorsanız özel yazılım uzun vadede daha ucuza gelir.\n\nHangi yolun size uygun olduğundan emin değilseniz [iletişim formundan](/iletisim/) işinizi anlatın, öneri gerekçesiyle birlikte yazılı gelir. Fiyat kıyası için [web sitesi fiyatları](/blog/web-sitesi-yaptirma-fiyatlari/) yazımıza da bakabilirsiniz.\n",
+      "sss": [
+        {
+          "soru": "WordPress kötü mü?",
+          "cevap": "Hayır. Doğru kurulan ve düzenli güncellenen bir WordPress sitesi birçok işletme için yeterlidir. Sorunlar genellikle fazla eklenti ve güncelleme yapılmamasından kaynaklanır."
+        },
+        {
+          "soru": "Shopify kullanırken özel siteye geçilebilir mi?",
+          "cevap": "Evet. Ürünler, müşteriler ve siparişler dışa aktarılıp yeni siteye taşınabilir. Adres yönlendirmeleriyle arama sıralaması korunur."
+        }
+      ],
+      "ilgiliHizmet": "kurumsal-web-sitesi"
+    },
+    {
+      "kimlik": "web-sitesi-yaptirirken-sorulacak-sorular",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/web-sitesi-yaptirirken-sorulacak-sorular.jpg",
+        "alt": "Toplantı masasında not alan iki kişi ve dizüstü bilgisayarlar"
+      },
+      "slug": "web-sitesi-yaptirirken-sorulacak-sorular",
+      "baslik": "Web sitesi yaptırırken sorulması gereken 12 soru",
+      "seoBaslik": "Web Sitesi Yaptırırken Sorulacak 12 Soru, Sözleşme Öncesi Liste",
+      "aciklama": "Yazılımcıyla anlaşmadan önce sorulması gereken 12 soru. Sahiplik, ödeme planı, teslim süresi, panel, SEO, bakım ve her sorunun neden önemli olduğu.",
+      "kategori": "Rehber",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Web sitesi yaptırmadan önce en kritik sorular şunlardır. Alan adı, hosting ve kaynak kod kimin adına olacak? Tasarımı görmeden ne kadar ödeyeceğim? Yönetim paneli var mı? Teslim tarihi yazılı mı? Teslimden sonra kaç gün ücretsiz düzeltme var? Bu soruların cevabı teklifte yazılı değilse, sonradan çıkan anlaşmazlıkların çoğu buradan doğar.",
+      "icerik": "\nWeb sitesi projelerinde yaşanan sorunların büyük kısmı kötü niyetten değil, baştan konuşulmamış konulardan çıkar. Aşağıdaki 12 soruyu sözleşme imzalamadan önce sorun ve cevapları yazılı alın.\n\n## Sahiplik\n\n### 1. Alan adı ve hosting kimin adına açılacak?\n\nDoğru cevap **sizin adınıza** olmalıdır. Yazılımcının hesabında duran bir alan adı, ayrılmak istediğinizde en büyük sorununuz olur. Alan adı hesabının e posta adresi sizin adresiniz olmalı.\n\n### 2. Kaynak kod ve şifreler teslim edilecek mi?\n\nProje bittiğinde hosting paneli, alan adı, yönetim paneli, e posta ve varsa kaynak kod erişimleri size verilmelidir. Gerekirse biz yaparız cevabı sizi tek bir kişiye bağımlı kılar.\n\n## Para ve süre\n\n### 3. Ödeme planı nasıl?\n\nTamamını peşin istemek yaygın ama sağlıklı değil. Makul bir plan şöyledir. Küçük bir ön ödeme, tasarım onayından sonra ana ödeme ve yayından sonra kalan tutar. **Tasarımı görmeden ödemenin tamamını yapmayın.**\n\n### 4. Teslim tarihi yazılı mı?\n\nİki üç haftada biter gibi bir söz değil, takvimde bir tarih isteyin. İçeriği geç gönderirseniz tarihin nasıl kayacağı da yazılmalı.\n\n### 5. Fiyata neler dahil, neler hariç?\n\nKDV, alan adı, hosting, tema lisansı, metin yazımı, görsel ve çoklu dil. Hariç olan her kalemi tek tek yazdırın.\n\n## İçerik ve yönetim\n\n### 6. Siteyi kendim güncelleyebilecek miyim?\n\nYönetim paneli yoksa her fiyat değişikliğinde yazılımcıyı aramanız gerekir. Panelde metin, görsel, ürün ve blog gibi neleri değiştirebileceğinizi sorun.\n\n### 7. Metinleri ve görselleri kim hazırlayacak?\n\nProjelerin en çok geciktiği yer burasıdır. İçerik sizden geliyorsa ne zaman ve hangi formatta istendiğini netleştirin.\n\n### 8. Site telefonda nasıl görünecek?\n\nZiyaretçilerin büyük çoğunluğu telefondan gelir. Tasarımı telefonda da görmek istediğinizi baştan söyleyin.\n\n## Bulunabilirlik\n\n### 9. Arama motoru altyapısı kuruluyor mu?\n\nSayfa başlıkları ve açıklamaları, site haritası, yapılandırılmış veri, Google Search Console kaydı ve hız optimizasyonu temel işlerdir, ayrı bir SEO paketi olarak satılmamalıdır. Yapay zekâ aramaları için neler gerektiğini [GEO nedir](/blog/geo-nedir-yapay-zeka-aramalari/) yazımızda anlattık.\n\n### 10. Eski sitemin Google sıralaması korunacak mı?\n\nMevcut bir siteniz varsa eski adreslerin yenilerine yönlendirilmesi gerekir. Yapılmazsa yıllardır biriken arama trafiği bir gecede kaybolabilir.\n\n## Teslimden sonra\n\n### 11. Kaç gün ücretsiz düzeltme var?\n\nYayından sonra hatalar çıkar, bu normaldir. Bu hataların hangi süre içinde ücretsiz düzeltileceği yazılı olmalı. Bizim projelerimizde bu süre 30 gündür.\n\n### 12. Bakım nasıl yapılacak?\n\nGüvenlik güncellemeleri, yedekleme ve SSL yenilemesi kimin sorumluluğunda? Aylık bakım ücreti varsa ne içeriyor? Detaylar için [bakım ve destek](/hizmetler/bakim-ve-destek/) sayfamıza bakabilirsiniz.\n\n## Kısa kontrol listesi\n\nTeklifte şu maddelerin her birinin cevabı yazılı olmalı.\n\n- Alan adı ve hosting benim adıma mı?\n- Kaynak kod ve şifreler teslim edilecek mi?\n- Ödeme planı tasarım onayına bağlı mı?\n- Teslim tarihi takvimde mi?\n- Dahil ve hariç kalemler listelendi mi?\n- Yönetim paneli var mı?\n- İçerik kimden, ne zaman?\n- Mobil tasarım gösterilecek mi?\n- SEO altyapısı dahil mi?\n- Eski adresler yönlendirilecek mi?\n- Ücretsiz düzeltme süresi ne kadar?\n- Bakım kimde, ne kadar?\n\nBu soruların cevaplarını teklifimizde baştan yazılı olarak veriyoruz. Teklif istemek için [iletişim formunu](/iletisim/) kullanabilirsiniz.\n",
+      "sss": [
+        {
+          "soru": "Sözleşme yapmak şart mı?",
+          "cevap": "Küçük projelerde bile kapsamın, tarihin ve ödeme planının yazılı olması iki tarafı da korur. E posta veya WhatsApp yazışması da kayıt sayılır, ama imzalı bir teklif daha nettir."
+        },
+        {
+          "soru": "Yazılımcı ortadan kaybolursa ne olur?",
+          "cevap": "Alan adı, hosting ve kaynak kod sizin adınızaysa başka bir yazılımcı kaldığı yerden devam edebilir. Bu yüzden sahiplik soruları listenin başında."
+        }
+      ],
+      "ilgiliHizmet": "kurumsal-web-sitesi"
+    },
+    {
+      "kimlik": "alan-adi-hosting-ssl-nedir",
+      "yayinda": true,
+      "gorsel": {
+        "src": "/blog/alan-adi-hosting-ssl-nedir.jpg",
+        "alt": "Yeşil ışıklı sunucu kabinleri"
+      },
+      "slug": "alan-adi-hosting-ssl-nedir",
+      "baslik": "Alan adı, hosting ve SSL nedir? İşletmeler için sade anlatım",
+      "seoBaslik": "Alan Adı, Hosting ve SSL Nedir? İşletmeler İçin Rehber",
+      "aciklama": "Web sitesinin üç temel parçası olan alan adı, hosting ve SSL ne işe yarar, nereden alınır, kimin adına olmalı ve yıllık ne kadar tutar?",
+      "kategori": "Rehber",
+      "tarih": "2026-10-05",
+      "kisaCevap": "Alan adı sitenizin adresidir, örneğin ornek.com.tr gibi. Hosting, sitenin dosyalarının durduğu ve gece gündüz açık kalan sunucudur. SSL ise site ile ziyaretçi arasındaki bağlantıyı şifreleyen sertifikadır, adres çubuğundaki kilit simgesini o sağlar. Üçü de yıllık yenilenir ve mutlaka işletme sahibinin adına, onun e posta adresiyle açılmalıdır.",
+      "icerik": "\nWeb sitesi yaptırırken karşınıza çıkan bu üç kavram çoğu zaman karıştırılır. Basit bir benzetmeyle anlatalım.\n\n- **Alan adı** dükkânınızın adresidir.\n- **Hosting** dükkânın kendisidir, ürünler, raflar ve kasa orada durur.\n- **SSL** dükkânın kapısındaki kilittir.\n\n## Alan adı\n\nAlan adı, ziyaretçilerin tarayıcıya yazdığı adrestir. Bir alan adı sağlayıcısından yıllık ücretle kiralanır. Satın alınmaz, yenilenmezse başkası alabilir.\n\n### Hangi uzantıyı seçmeli?\n\n| Uzantı | Kimler için | Not |\n|---|---|---|\n| .com.tr | Yurt içinde faaliyet gösteren işletmeler | Yerel müşteri için güven verir |\n| .com | Herkes | En bilinen uzantı, iyi isimler çoğu zaman alınmış |\n| .net ve .org | Teknik firmalar, dernekler | Daha az tercih edilir |\n| .dev, .app ve .io | Yazılım ve teknoloji | Yalnızca HTTPS ile çalışır |\n\n.com.tr alan adları 2022 yılından bu yana belge istenmeden alınabiliyor. Markanız için hem .com hem .com.tr almak, başkasının benzer adla site açmasını önler.\n\n> Alan adının yenileme tarihini takviminize yazın. Süresi dolan alan adı birkaç hafta içinde serbest kalabilir ve başkası tarafından alınabilir.\n\n## Hosting\n\nHosting, sitenin dosyalarının ve veri tabanının bulunduğu, sürekli internete bağlı bilgisayardır. Başlıca türleri şunlardır.\n\n- **Paylaşımlı hosting.** Bir sunucuyu yüzlerce siteyle paylaşırsınız. Ucuzdur, tanıtım siteleri için yeterlidir.\n- **VPS veya bulut sunucu.** Size ayrılmış kaynaklar sunar. E ticaret ve trafik alan siteler için daha uygundur.\n- **Statik barındırma.** Netlify, Vercel ve Cloudflare gibi servisler modern ve hızlı siteler içindir. Çoğu küçük sitede ücretsiz katmanla başlanabilir.\n\nHosting seçerken yurt içinden erişim hızına, otomatik yedeklemeye, PHP ve veri tabanı sürümlerine ve destek ekibine ulaşabilmeye bakın.\n\n## SSL sertifikası\n\nSSL, ziyaretçinin bilgisayarı ile siteniz arasındaki veriyi şifreler. SSL olmayan sitelerde tarayıcı Güvenli değil uyarısı gösterir. Bu uyarı ziyaretçilerin önemli bir kısmının siteyi terk etmesine yol açar.\n\n- Ücretsiz sertifikalar çoğu site için yeterlidir ve otomatik yenilenebilir.\n- Bazı hosting firmaları ücretsiz SSL sertifikasını otomatik kurmaz. Bu durumda sertifikanın elle kurulup **süresi dolmadan yenilenmesi** gerekir.\n- Ödeme alan sitelerde SSL zorunludur.\n\n## Kimin adına olmalı?\n\n**Hepsi sizin adınıza.** Alan adı, hosting ve e posta hesapları sizin e posta adresinizle açılmalı, ödemesi sizin kartınızdan yapılmalıdır. Yazılımcı bu hesaplara erişim alarak çalışabilir. Bu düzen, yazılımcı değiştirdiğinizde, firma kapandığında veya anlaşmazlık çıktığında sitenizi korur.\n\n## Yıllık maliyet\n\nYıllık toplam maliyet uzantıya, hosting türüne ve sağlayıcıya göre değişir. Küçük bir tanıtım sitesi için alan adı ve paylaşımlı hosting genellikle yılda birkaç bin lira tutar. E ticaret ve yüksek trafikli sitelerde sunucu maliyeti artar.\n\n## Sık yapılan hatalar\n\n1. Alan adını yazılımcının hesabına almak\n2. Yenileme tarihini kaçırmak\n3. En ucuz hostingi seçip yavaş siteyle satış kaybetmek\n4. SSL süresinin dolduğunu müşteriden duymak\n5. Yedeği olmayan bir hostingte tek kopya tutmak\n\nBu takipleri sizin yerinize yapmamızı isterseniz [bakım ve destek paketimize](/hizmetler/bakim-ve-destek/) göz atın.\n",
+      "sss": [
+        {
+          "soru": "Alan adı ömür boyu alınabilir mi?",
+          "cevap": "Hayır. Alan adları en fazla birkaç yıllığına kiralanır ve yenilenmesi gerekir. Uzun süreli ödeme yapmak yenileme riskini azaltır."
+        },
+        {
+          "soru": "Ücretsiz SSL yeterli mi?",
+          "cevap": "Çoğu site için evet. Ücretsiz ve ücretli sertifikalar aynı şifreleme gücündedir, fark doğrulama türünde ve destek hizmetindedir."
+        },
+        {
+          "soru": "Hosting firmasını sonradan değiştirebilir miyim?",
+          "cevap": "Evet. Dosyalar ve veri tabanı yeni sunucuya taşınır, alan adının yönlendirmesi değiştirilir. Doğru planlanırsa kesinti çok kısa olur."
+        }
+      ],
+      "ilgiliHizmet": "bakim-ve-destek"
+    }
+  ],
+  "sss": [
+    {
+      "kimlik": "sss-1",
+      "yayinda": true,
+      "soru": "Web sitesi yaptırmak ne kadar tutar?",
+      "cevap": "Fiyat projenin kapsamına göre değişir. Sayfa sayısı, dil seçeneği, ödeme ve entegrasyon ihtiyaçları ile özel modüller belirleyicidir. Kapsam, süre ve fiyat ilk görüşmeden sonra kalem kalem yazılı olarak verilir."
+    },
+    {
+      "kimlik": "sss-2",
+      "yayinda": true,
+      "soru": "Ne kadar sürede teslim ediyorsunuz?",
+      "cevap": "Kurumsal siteler 1 ile 3 hafta, e ticaret siteleri 2 ile 5 hafta, mobil uygulamalar 4 ile 10 hafta sürer. Süre teklifte tarih olarak yazılır."
+    },
+    {
+      "kimlik": "sss-3",
+      "yayinda": true,
+      "soru": "Ödeme nasıl yapılıyor?",
+      "cevap": "Başlangıçta küçük bir ön ödeme alınır. Ödemenin büyük kısmı ana sayfa tasarımını görüp onayladıktan sonra yapılır."
+    },
+    {
+      "kimlik": "sss-4",
+      "yayinda": true,
+      "soru": "Siteyi sonradan kendim güncelleyebilir miyim?",
+      "cevap": "Evet. Her proje, kod bilmeden metin, görsel, ürün ve blog yazısı ekleyebileceğiniz bir yönetim paneliyle teslim edilir."
+    },
+    {
+      "kimlik": "sss-5",
+      "yayinda": true,
+      "soru": "Hazır tema mı kullanıyorsunuz?",
+      "cevap": "Hayır. Tasarım işinize göre yapılır. Altyapı olarak WordPress uygun olduğunda WordPress, hız ve özel işlev gerektiğinde React, Laravel veya Flutter tabanlı özel yazılım kullanılır."
+    },
+    {
+      "kimlik": "sss-6",
+      "yayinda": true,
+      "soru": "Sitem Google aramalarında ve ChatGPT gibi yapay zekâ araçlarında çıkar mı?",
+      "cevap": "Siteler arama motorları için SEO, yapay zekâ aramaları için GEO kurallarına göre yapılandırılmış veri, hızlı açılış, site haritası ve net soru cevap içerikleriyle kurulur. Sıralama garanti edilemez, ama bulunabilir olmanın teknik şartları baştan sağlanır."
+    },
+    {
+      "kimlik": "sss-7",
+      "yayinda": true,
+      "soru": "Türkiye genelinde hizmet veriyor musunuz?",
+      "cevap": "Evet. Görüşmeler telefon veya görüntülü yapılır. İstanbul, Ankara, İzmir, Antalya ve diğer şehirlerdeki müşterilerle uzaktan çalışıyoruz."
+    }
+  ],
+  "surec": [
+    {
+      "kimlik": "adim-01",
+      "yayinda": true,
+      "baslik": "Konuşma",
+      "aciklama": "Ne yaptığınızı, kime sattığınızı ve neyin eksik olduğunu dinliyoruz.",
+      "sure": "1 gün"
+    },
+    {
+      "kimlik": "adim-02",
+      "yayinda": true,
+      "baslik": "Teklif",
+      "aciklama": "Kapsam, teslim tarihi ve fiyat yazılı olarak önünüze geliyor. Sürprizli ek kalem çıkmıyor.",
+      "sure": "2 gün"
+    },
+    {
+      "kimlik": "adim-03",
+      "yayinda": true,
+      "baslik": "Tasarım",
+      "aciklama": "Önce ana sayfa tasarımı onayınıza sunulur. Geliştirme onaydan sonra başlar.",
+      "sure": "3 ile 5 gün"
+    },
+    {
+      "kimlik": "adim-04",
+      "yayinda": true,
+      "baslik": "Geliştirme",
+      "aciklama": "Kodlama, entegrasyonlar ve içerik girişi. Süreç boyunca ara sürümü canlı bir bağlantıdan takip ediyorsunuz.",
+      "sure": "1 ile 3 hafta"
+    },
+    {
+      "kimlik": "adim-05",
+      "yayinda": true,
+      "baslik": "Yayın",
+      "aciklama": "Alan adı ve hosting sizin adınıza açılıyor, şifreler sizde kalıyor.",
+      "sure": "1 gün"
+    }
+  ],
+  "ilkeler": [
+    {
+      "kimlik": "ilke-01",
+      "yayinda": true,
+      "ikon": "goz",
+      "baslik": "Şeffaf süreç",
+      "aciklama": "Kapsam, tarih ve fiyat baştan yazılı. Geliştirme sırasında ara sürümü canlı bir bağlantıdan takip edersiniz, sürpriz ek kalem çıkmaz."
+    },
+    {
+      "kimlik": "ilke-02",
+      "yayinda": true,
+      "ikon": "anahtar",
+      "baslik": "Sahiplik sizde",
+      "aciklama": "Alan adı, hosting, mağaza hesapları ve kaynak kod sizin adınıza. Bir gün başka biriyle devam etmek isterseniz hiçbir şey bize bağlı kalmaz."
+    },
+    {
+      "kimlik": "ilke-03",
+      "yayinda": true,
+      "ikon": "can-simidi",
+      "baslik": "Yayından sonra bakım",
+      "aciklama": "Yedek, güncelleme ve güvenlik takibi aylık bakımla sürer. Bütün erişimler her zaman sizde kalır."
+    }
+  ],
+  "teknolojiler": [
+    {
+      "kimlik": "react",
+      "yayinda": true,
+      "ad": "React",
+      "ikon": "/logolar/react.svg",
+      "renk": "#61dafb",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "flutter",
+      "yayinda": true,
+      "ad": "Flutter",
+      "ikon": "/logolar/flutter.svg",
+      "renk": "#54c5f8",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "dart",
+      "yayinda": true,
+      "ad": "Dart",
+      "ikon": "/logolar/dart.svg",
+      "renk": "#0175c2",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "typescript",
+      "yayinda": true,
+      "ad": "TypeScript",
+      "ikon": "/logolar/typescript.svg",
+      "renk": "#3178c6",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "javascript",
+      "yayinda": true,
+      "ad": "JavaScript",
+      "ikon": "/logolar/javascript.svg",
+      "renk": "#f7df1e",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "html5",
+      "yayinda": true,
+      "ad": "HTML5",
+      "ikon": "/logolar/html5.svg",
+      "renk": "#e34f26",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "css",
+      "yayinda": true,
+      "ad": "CSS",
+      "ikon": "/logolar/css.svg",
+      "renk": "#1572b6",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "php",
+      "yayinda": true,
+      "ad": "PHP",
+      "ikon": "/logolar/php.svg",
+      "renk": "#777bb4",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "laravel",
+      "yayinda": true,
+      "ad": "Laravel",
+      "ikon": "/logolar/laravel.svg",
+      "renk": "#ff2d20",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "filament",
+      "yayinda": true,
+      "ad": "Filament",
+      "ikon": "/logolar/filament.svg",
+      "renk": "#fdae4b",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "nodedotjs",
+      "yayinda": true,
+      "ad": "Node.js",
+      "ikon": "/logolar/nodedotjs.svg",
+      "renk": "#5fa04e",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "nextdotjs",
+      "yayinda": true,
+      "ad": "Next.js",
+      "ikon": "/logolar/nextdotjs.svg",
+      "renk": "#f5f5f7",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "wordpress",
+      "yayinda": true,
+      "ad": "WordPress",
+      "ikon": "/logolar/wordpress.svg",
+      "renk": "#21759b",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "tailwindcss",
+      "yayinda": true,
+      "ad": "Tailwind CSS",
+      "ikon": "/logolar/tailwindcss.svg",
+      "renk": "#06b6d4",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "vite",
+      "yayinda": true,
+      "ad": "Vite",
+      "ikon": "/logolar/vite.svg",
+      "renk": "#8b5cf6",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "threejs",
+      "yayinda": true,
+      "ad": "Three.js",
+      "ikon": "/logolar/threejs.svg",
+      "renk": "#ffffff",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "gsap",
+      "yayinda": true,
+      "ad": "GSAP",
+      "ikon": "/logolar/gsap.svg",
+      "renk": "#0ae448",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "motion",
+      "yayinda": true,
+      "ad": "Motion",
+      "ikon": "/logolar/motion.svg",
+      "renk": "#fff312",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "alpinedotjs",
+      "yayinda": true,
+      "ad": "Alpine.js",
+      "ikon": "/logolar/alpinedotjs.svg",
+      "renk": "#8bc0d0",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "i18next",
+      "yayinda": true,
+      "ad": "i18next",
+      "ikon": "/logolar/i18next.svg",
+      "renk": "#26a69a",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "android",
+      "yayinda": true,
+      "ad": "Android",
+      "ikon": "/logolar/android.svg",
+      "renk": "#3ddc84",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "apple",
+      "yayinda": true,
+      "ad": "Apple",
+      "ikon": "/logolar/apple.svg",
+      "renk": "#f5f5f7",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "figma",
+      "yayinda": true,
+      "ad": "Figma",
+      "ikon": "/logolar/figma.svg",
+      "renk": "#f24e1e",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": false
+    },
+    {
+      "kimlik": "github",
+      "yayinda": true,
+      "ad": "GitHub",
+      "ikon": "/logolar/github.svg",
+      "renk": "#f5f5f7",
+      "kategori": "Yazılım ve mobil",
+      "acikTon": true
+    },
+    {
+      "kimlik": "trendyol",
+      "yayinda": true,
+      "ad": "Trendyol",
+      "ikon": "/logolar/trendyol.png",
+      "renk": "#f27a1a",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "hepsiburada",
+      "yayinda": true,
+      "ad": "Hepsiburada",
+      "ikon": "/logolar/hepsiburada.svg",
+      "renk": "#f56600",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "shopify",
+      "yayinda": true,
+      "ad": "Shopify",
+      "ikon": "/logolar/shopify.svg",
+      "renk": "#7ab55c",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "woocommerce",
+      "yayinda": true,
+      "ad": "WooCommerce",
+      "ikon": "/logolar/woocommerce.svg",
+      "renk": "#96588a",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "ebay",
+      "yayinda": true,
+      "ad": "eBay",
+      "ikon": "/logolar/ebay.svg",
+      "renk": "#e53238",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "amazon",
+      "yayinda": true,
+      "ad": "Amazon",
+      "ikon": "/logolar/amazon.svg",
+      "renk": "#ff9900",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "magento",
+      "yayinda": true,
+      "ad": "Magento",
+      "ikon": "/logolar/magento.svg",
+      "renk": "#ee672f",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "prestashop",
+      "yayinda": true,
+      "ad": "PrestaShop",
+      "ikon": "/logolar/prestashop.svg",
+      "renk": "#25b9d7",
+      "kategori": "E ticaret ve pazaryeri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "paytr",
+      "yayinda": true,
+      "ad": "PayTR",
+      "ikon": "/logolar/paytr.png",
+      "renk": "#1f8ee9",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "iyzico",
+      "yayinda": true,
+      "ad": "iyzico",
+      "ikon": "/logolar/iyzico.svg",
+      "renk": "#1e64f0",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "stripe",
+      "yayinda": true,
+      "ad": "Stripe",
+      "ikon": "/logolar/stripe.svg",
+      "renk": "#635bff",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "paypal",
+      "yayinda": true,
+      "ad": "PayPal",
+      "ikon": "/logolar/paypal.svg",
+      "renk": "#0070e0",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "visa",
+      "yayinda": true,
+      "ad": "Visa",
+      "ikon": "/logolar/visa.svg",
+      "renk": "#7b8cff",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "mastercard",
+      "yayinda": true,
+      "ad": "Mastercard",
+      "ikon": "/logolar/mastercard.svg",
+      "renk": "#eb001b",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "applepay",
+      "yayinda": true,
+      "ad": "Apple Pay",
+      "ikon": "/logolar/applepay.svg",
+      "renk": "#f5f5f7",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "googlepay",
+      "yayinda": true,
+      "ad": "Google Pay",
+      "ikon": "/logolar/googlepay.svg",
+      "renk": "#4285f4",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": false
+    },
+    {
+      "kimlik": "klarna",
+      "yayinda": true,
+      "ad": "Klarna",
+      "ikon": "/logolar/klarna.svg",
+      "renk": "#ffb3c7",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "americanexpress",
+      "yayinda": true,
+      "ad": "American Express",
+      "ikon": "/logolar/americanexpress.svg",
+      "renk": "#2e77bc",
+      "kategori": "Ödeme sistemleri",
+      "acikTon": true
+    },
+    {
+      "kimlik": "supabase",
+      "yayinda": true,
+      "ad": "Supabase",
+      "ikon": "/logolar/supabase.svg",
+      "renk": "#3fcf8e",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "firebase",
+      "yayinda": true,
+      "ad": "Firebase",
+      "ikon": "/logolar/firebase.svg",
+      "renk": "#ffca28",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "postgresql",
+      "yayinda": true,
+      "ad": "PostgreSQL",
+      "ikon": "/logolar/postgresql.svg",
+      "renk": "#4169e1",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "mysql",
+      "yayinda": true,
+      "ad": "MySQL",
+      "ikon": "/logolar/mysql.svg",
+      "renk": "#4f8cb8",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": true
+    },
+    {
+      "kimlik": "mongodb",
+      "yayinda": true,
+      "ad": "MongoDB",
+      "ikon": "/logolar/mongodb.svg",
+      "renk": "#47a248",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "redis",
+      "yayinda": true,
+      "ad": "Redis",
+      "ikon": "/logolar/redis.svg",
+      "renk": "#ff4438",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "googlecloud",
+      "yayinda": true,
+      "ad": "Google Cloud",
+      "ikon": "/logolar/googlecloud.svg",
+      "renk": "#4285f4",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "cloudflare",
+      "yayinda": true,
+      "ad": "Cloudflare",
+      "ikon": "/logolar/cloudflare.svg",
+      "renk": "#f38020",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "docker",
+      "yayinda": true,
+      "ad": "Docker",
+      "ikon": "/logolar/docker.svg",
+      "renk": "#2496ed",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "kubernetes",
+      "yayinda": true,
+      "ad": "Kubernetes",
+      "ikon": "/logolar/kubernetes.svg",
+      "renk": "#326ce5",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "aws",
+      "yayinda": true,
+      "ad": "AWS",
+      "ikon": "/logolar/aws.svg",
+      "renk": "#ff9900",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": true
+    },
+    {
+      "kimlik": "microsoftazure",
+      "yayinda": true,
+      "ad": "Microsoft Azure",
+      "ikon": "/logolar/microsoftazure.svg",
+      "renk": "#0089d6",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "vercel",
+      "yayinda": true,
+      "ad": "Vercel",
+      "ikon": "/logolar/vercel.svg",
+      "renk": "#f5f5f7",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": true
+    },
+    {
+      "kimlik": "netlify",
+      "yayinda": true,
+      "ad": "Netlify",
+      "ikon": "/logolar/netlify.svg",
+      "renk": "#00c7b7",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": true
+    },
+    {
+      "kimlik": "digitalocean",
+      "yayinda": true,
+      "ad": "DigitalOcean",
+      "ikon": "/logolar/digitalocean.svg",
+      "renk": "#0080ff",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "elasticsearch",
+      "yayinda": true,
+      "ad": "Elasticsearch",
+      "ikon": "/logolar/elasticsearch.svg",
+      "renk": "#fed10a",
+      "kategori": "Veri, backend ve bulut",
+      "acikTon": false
+    },
+    {
+      "kimlik": "mikro",
+      "yayinda": true,
+      "ad": "Mikro Yazılım",
+      "ikon": "/logolar/mikro.png",
+      "renk": "#e1261c",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "hubspot",
+      "yayinda": true,
+      "ad": "HubSpot",
+      "ikon": "/logolar/hubspot.svg",
+      "renk": "#ff7a59",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "sap",
+      "yayinda": true,
+      "ad": "SAP",
+      "ikon": "/logolar/sap.svg",
+      "renk": "#0faaff",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "zoho",
+      "yayinda": true,
+      "ad": "Zoho",
+      "ikon": "/logolar/zoho.svg",
+      "renk": "#f0483e",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "zapier",
+      "yayinda": true,
+      "ad": "Zapier",
+      "ikon": "/logolar/zapier.svg",
+      "renk": "#ff4f00",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "make",
+      "yayinda": true,
+      "ad": "Make",
+      "ikon": "/logolar/make.svg",
+      "renk": "#8d49ff",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "n8n",
+      "yayinda": true,
+      "ad": "n8n",
+      "ikon": "/logolar/n8n.svg",
+      "renk": "#ea4b71",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "githubactions",
+      "yayinda": true,
+      "ad": "GitHub Actions",
+      "ikon": "/logolar/githubactions.svg",
+      "renk": "#2088ff",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "brevo",
+      "yayinda": true,
+      "ad": "Brevo",
+      "ikon": "/logolar/brevo.svg",
+      "renk": "#0b996e",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "salesforce",
+      "yayinda": true,
+      "ad": "Salesforce",
+      "ikon": "/logolar/salesforce.svg",
+      "renk": "#00a1e0",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "notion",
+      "yayinda": true,
+      "ad": "Notion",
+      "ikon": "/logolar/notion.svg",
+      "renk": "#f5f5f7",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "clickup",
+      "yayinda": true,
+      "ad": "ClickUp",
+      "ikon": "/logolar/clickup.svg",
+      "renk": "#ff5ac4",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "airtable",
+      "yayinda": true,
+      "ad": "Airtable",
+      "ikon": "/logolar/airtable.svg",
+      "renk": "#fcb400",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "trello",
+      "yayinda": true,
+      "ad": "Trello",
+      "ikon": "/logolar/trello.svg",
+      "renk": "#0052cc",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "asana",
+      "yayinda": true,
+      "ad": "Asana",
+      "ikon": "/logolar/asana.svg",
+      "renk": "#f06a6a",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "discord",
+      "yayinda": true,
+      "ad": "Discord",
+      "ikon": "/logolar/discord.svg",
+      "renk": "#5865f2",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "whatsapp",
+      "yayinda": true,
+      "ad": "WhatsApp",
+      "ikon": "/logolar/whatsapp.svg",
+      "renk": "#25d366",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": false
+    },
+    {
+      "kimlik": "crm",
+      "yayinda": true,
+      "ad": "Özel CRM",
+      "ikon": "/logolar/crm.svg",
+      "renk": "#ff3b1f",
+      "kategori": "CRM, ERP ve otomasyon",
+      "acikTon": true
+    },
+    {
+      "kimlik": "ai",
+      "yayinda": true,
+      "ad": "Yapay zekâ",
+      "ikon": "/logolar/ai.svg",
+      "renk": "#f5f5f7",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "openai",
+      "yayinda": true,
+      "ad": "OpenAI",
+      "ikon": "/logolar/openai.svg",
+      "renk": "#f5f5f7",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "googlegemini",
+      "yayinda": true,
+      "ad": "Gemini",
+      "ikon": "/logolar/googlegemini.svg",
+      "renk": "#8e75b2",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "anthropic",
+      "yayinda": true,
+      "ad": "Anthropic",
+      "ikon": "/logolar/anthropic.svg",
+      "renk": "#d4a27f",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "tensorflow",
+      "yayinda": true,
+      "ad": "TensorFlow",
+      "ikon": "/logolar/tensorflow.svg",
+      "renk": "#ff6f00",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "huggingface",
+      "yayinda": true,
+      "ad": "Hugging Face",
+      "ikon": "/logolar/huggingface.svg",
+      "renk": "#ffd21e",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "pytorch",
+      "yayinda": true,
+      "ad": "PyTorch",
+      "ikon": "/logolar/pytorch.svg",
+      "renk": "#ee4c2c",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "scikitlearn",
+      "yayinda": true,
+      "ad": "Scikit learn",
+      "ikon": "/logolar/scikitlearn.svg",
+      "renk": "#f7931e",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "googleanalytics",
+      "yayinda": true,
+      "ad": "Google Analytics",
+      "ikon": "/logolar/googleanalytics.svg",
+      "renk": "#e37400",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "googlesearchconsole",
+      "yayinda": true,
+      "ad": "Search Console",
+      "ikon": "/logolar/googlesearchconsole.svg",
+      "renk": "#458cf5",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "googleads",
+      "yayinda": true,
+      "ad": "Google Ads",
+      "ikon": "/logolar/googleads.svg",
+      "renk": "#4285f4",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "meta",
+      "yayinda": true,
+      "ad": "Meta",
+      "ikon": "/logolar/meta.svg",
+      "renk": "#0866ff",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "mailchimp",
+      "yayinda": true,
+      "ad": "Mailchimp",
+      "ikon": "/logolar/mailchimp.svg",
+      "renk": "#ffe01b",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "semrush",
+      "yayinda": true,
+      "ad": "Semrush",
+      "ikon": "/logolar/semrush.svg",
+      "renk": "#ff642d",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "owasp",
+      "yayinda": true,
+      "ad": "OWASP",
+      "ikon": "/logolar/owasp.svg",
+      "renk": "#f5f5f7",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "sentry",
+      "yayinda": true,
+      "ad": "Sentry",
+      "ikon": "/logolar/sentry.svg",
+      "renk": "#fb4226",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "auth0",
+      "yayinda": true,
+      "ad": "Auth0",
+      "ikon": "/logolar/auth0.svg",
+      "renk": "#eb5424",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "okta",
+      "yayinda": true,
+      "ad": "Okta",
+      "ikon": "/logolar/okta.svg",
+      "renk": "#007dc1",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "letsencrypt",
+      "yayinda": true,
+      "ad": "LetsEncrypt",
+      "ikon": "/logolar/letsencrypt.svg",
+      "renk": "#2c3c69",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "hotjar",
+      "yayinda": true,
+      "ad": "Hotjar",
+      "ikon": "/logolar/hotjar.svg",
+      "renk": "#ff3c00",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "googlemaps",
+      "yayinda": true,
+      "ad": "Google Maps",
+      "ikon": "/logolar/googlemaps.svg",
+      "renk": "#4285f4",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "leaflet",
+      "yayinda": true,
+      "ad": "Leaflet",
+      "ikon": "/logolar/leaflet.svg",
+      "renk": "#199900",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "openstreetmap",
+      "yayinda": true,
+      "ad": "OpenStreetMap",
+      "ikon": "/logolar/openstreetmap.svg",
+      "renk": "#7ebc6f",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": false
+    },
+    {
+      "kimlik": "seo",
+      "yayinda": true,
+      "ad": "SEO",
+      "ikon": "/logolar/seo.svg",
+      "renk": "#3fcf8e",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "geo",
+      "yayinda": true,
+      "ad": "GEO",
+      "ikon": "/logolar/geo.svg",
+      "renk": "#61dafb",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    },
+    {
+      "kimlik": "security",
+      "yayinda": true,
+      "ad": "Siber güvenlik",
+      "ikon": "/logolar/security.svg",
+      "renk": "#ff3b1f",
+      "kategori": "AI, güvenlik ve büyüme",
+      "acikTon": true
+    }
+  ]
+}

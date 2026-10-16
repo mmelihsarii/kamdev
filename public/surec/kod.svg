@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="136" viewBox="0 0 240 136">
+  <style>
+    text { font-family: "JetBrains Mono", "SF Mono", SFMono-Regular, Menlo, Consolas, monospace; font-size: 11px; white-space: pre; }
+    .a { fill: #d4d4d8; } .k { fill: #f28b74; } .f { fill: #8fb8ff; } .s { fill: #b5d99c; } .p { fill: #8b8b94; } .t { fill: #e9c46a; }
+  </style>
+  <text x="0" y="12"><tspan class="k">import</tspan><tspan class="p"> { </tspan><tspan class="f">useSepet</tspan><tspan class="p"> } </tspan><tspan class="k">from</tspan><tspan class="s"> "./sepet"</tspan></text>
+  <text x="0" y="44"><tspan class="k">export function</tspan><tspan class="f"> Sepet</tspan><tspan class="p">() {</tspan></text>
+  <text x="0" y="60"><tspan class="k">  const</tspan><tspan class="p"> { </tspan><tspan class="a">urunler</tspan><tspan class="p"> } = </tspan><tspan class="f">useSepet</tspan><tspan class="p">();</tspan></text>
+  <text x="0" y="76"><tspan class="k">  return</tspan><tspan class="p"> (</tspan></text>
+  <text x="0" y="92"><tspan class="p">    &lt;</tspan><tspan class="t">Liste</tspan><tspan class="a"> urunler</tspan><tspan class="p">={</tspan><tspan class="a">urunler</tspan><tspan class="p">} /&gt;</tspan></text>
+  <text x="0" y="108"><tspan class="p">  );</tspan></text>
+  <text x="0" y="124"><tspan class="p">}</tspan></text>
+</svg>

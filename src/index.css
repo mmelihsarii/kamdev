@@ -1,0 +1,455 @@
+@import "tailwindcss";
+
+@theme {
+  --color-zemin: #050506;
+  --color-zemin-kart: #0b0b0d;
+  --color-vurgu: #e2462d;
+  --color-vurgu-sonuk: #b9381f;
+
+  --font-sans: "Roboto", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "Roboto", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+html {
+  background-color: var(--color-zemin);
+  -webkit-font-smoothing: antialiased;
+  scroll-padding-top: calc(72px + env(safe-area-inset-top));
+}
+
+/* Zemin rengi yalnızca html'de; gövde boyanırsa arkadaki sabit ışık katmanını örter. */
+body {
+  margin: 0;
+  min-width: 320px;
+  color: #fafafa;
+  font-family: var(--font-sans);
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+img,
+svg,
+canvas {
+  max-width: 100%;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+}
+
+section[id] {
+  scroll-margin-top: calc(72px + env(safe-area-inset-top));
+}
+
+@media (min-width: 768px) {
+  html {
+    scroll-padding-top: calc(78px + env(safe-area-inset-top));
+  }
+
+  section[id] {
+    scroll-margin-top: calc(78px + env(safe-area-inset-top));
+  }
+}
+
+::selection {
+  background: var(--color-vurgu);
+  color: #050506;
+}
+
+/* Lenis akıcı kaydırma sırasında tarayıcının kendi yumuşatmasını kapatır */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+/* Hareket azaltma tercihi: her şey anında yerine otursun */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Klavyeyle gezenler için görünür odak halkası */
+:focus-visible {
+  outline: 2px solid var(--color-vurgu);
+  outline-offset: 3px;
+}
+
+/* Başlık hiyerarşisi semantikte; görsel ağırlık okunurluğu destekleyecek kadar güçlü. */
+/* Bölüm ve sayfa başlıkları hero başlığı gibi ince durur. */
+.baslik {
+  font-weight: 300;
+}
+
+.govde-dar {
+  font-weight: 400;
+}
+
+/* Canlı işaretinin nabzı. Satırlar sırayla atsın diye gecikme inline veriliyor. */
+@keyframes nabiz {
+  0%, 72%, 100% { opacity: 0.35; transform: scale(1); }
+  82%           { opacity: 1;    transform: scale(1.6); }
+}
+
+.nabiz {
+  animation: nabiz 3.4s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nabiz { animation: none; opacity: 0.8; }
+}
+
+/* Teklif bandındaki sonsuz kayan hizmet şeridi; iki kopya yan yana döner. */
+@keyframes kaydir {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-100%); }
+}
+
+.kayan-serit {
+  animation: kaydir 38s linear infinite;
+}
+
+/* Ters yönde akan şerit */
+@keyframes kaydir-ters {
+  from { transform: translateX(-100%); }
+  to   { transform: translateX(0); }
+}
+
+.kayan-serit-ters {
+  animation: kaydir-ters 38s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kayan-serit,
+  .kayan-serit-ters { animation: none; }
+}
+
+/* Blog yazısı tipografisi. Okuma genişliği ~70 karakter, ritim 8px katları. */
+.yazi {
+  color: #e2e2e6;
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+.yazi > * + * {
+  margin-top: 1.4em;
+}
+
+.yazi h2 {
+  position: relative;
+  margin-top: 2.6em;
+  color: #fafafa;
+  font-size: clamp(1.35rem, 3.4vw, 1.7rem);
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  scroll-margin-top: 110px;
+}
+
+.yazi h3 {
+  margin-top: 2em;
+  color: #f4f4f5;
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+  scroll-margin-top: 110px;
+}
+
+.yazi h2 + *,
+.yazi h3 + * {
+  margin-top: 0.8em;
+}
+
+.yazi strong {
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.yazi a {
+  color: #fafafa;
+  text-decoration: underline;
+  text-decoration-color: rgba(226, 70, 45, 0.55);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+  transition: color 0.25s, text-decoration-color 0.25s;
+}
+
+.yazi a:hover {
+  color: var(--color-vurgu);
+  text-decoration-color: var(--color-vurgu);
+}
+
+.yazi ul,
+.yazi ol {
+  padding-left: 0;
+  list-style: none;
+}
+
+.yazi li {
+  position: relative;
+  padding-left: 1.7em;
+}
+
+.yazi li + li {
+  margin-top: 0.55em;
+}
+
+.yazi ul > li::before {
+  content: "";
+  position: absolute;
+  left: 0.35em;
+  top: 0.72em;
+  width: 6px;
+  height: 6px;
+  border-radius: 2px;
+  background: var(--color-vurgu);
+}
+
+.yazi ol {
+  counter-reset: madde;
+}
+
+.yazi ol > li {
+  counter-increment: madde;
+}
+
+.yazi ol > li::before {
+  content: counter(madde);
+  font-weight: 700;
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  color: var(--color-vurgu);
+  font-size: 0.72em;
+  letter-spacing: 0.05em;
+}
+
+.yazi .not {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-left: 2px solid var(--color-vurgu);
+  border-radius: 3px;
+  background: rgba(226, 70, 45, 0.045);
+  padding: 1.1em 1.4em;
+  color: #e4e4e7;
+  font-size: 0.95em;
+}
+
+.yazi .tablo-kap {
+  overflow-x: auto;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 4px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.yazi table {
+  width: 100%;
+  min-width: 34rem;
+  border-collapse: collapse;
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.yazi thead th {
+  background: rgba(255, 255, 255, 0.03);
+  color: #d4d4d8;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.yazi th,
+.yazi td {
+  padding: 0.85em 1.1em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  vertical-align: top;
+}
+
+.yazi tbody th {
+  color: #fafafa;
+  font-weight: 700;
+  text-align: left;
+}
+
+.yazi tbody tr:last-child th,
+.yazi tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.yazi tbody tr {
+  transition: background-color 0.25s;
+}
+
+.yazi tbody tr:hover {
+  background: rgba(255, 255, 255, 0.025);
+}
+
+@media (max-width: 640px) {
+  .yazi {
+    font-size: 16px;
+    line-height: 1.8;
+  }
+}
+
+/*
+ * Ortak kart yüzeyi. İnce kenar, üstte ışık çizgisi, hafif dikey degrade.
+ * İmlecin konumu --x / --y olarak App'teki tek dinleyiciden gelir ve
+ * kartın üzerinde yumuşak bir ışık gezdirir.
+ */
+.kutu {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.018);
+  transition: border-color 0.45s, background-color 0.45s, transform 0.45s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.kutu::before {
+  content: "";
+  position: absolute;
+  inset: 0 0 auto;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.07), transparent);
+  pointer-events: none;
+}
+
+.kutu::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: radial-gradient(420px circle at var(--x, 50%) var(--y, 0%), rgba(226, 70, 45, 0.045), transparent 45%);
+  opacity: 0;
+  transition: opacity 0.45s;
+  pointer-events: none;
+}
+
+.kutu:hover {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.kutu:hover::after {
+  opacity: 1;
+}
+
+.kutu-hareketli:hover {
+  transform: translateY(-3px);
+}
+
+/* Adım numarası */
+.numara {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--color-vurgu);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kutu-hareketli:hover { transform: none; }
+}
+
+/* Kayan şerit fareyle üstüne gelince dursun, başlık okunabilsin. */
+.kayan-serit:hover,
+:has(> .kayan-serit:hover) > .kayan-serit {
+  animation-play-state: paused;
+}
+
+
+/*
+ * Sitenin tek hizası. Menü, başlıklar, kartlar ve alt bilgi ortada 1332
+ * piksellik bir sütunda durur; her sayfada içerik logoyla aynı hizadan
+ * başlar. Kenar boşluğu ekranla büyür, dar ekranda sütun ekranı doldurur.
+ */
+:root {
+  --kap-bosluk: clamp(1.25rem, 4vw, 4.5rem);
+  --kap-genislik: 1332px;
+}
+
+.kap {
+  width: 100%;
+  max-width: calc(var(--kap-genislik) + 2 * var(--kap-bosluk));
+  margin-inline: auto;
+  padding-inline: var(--kap-bosluk);
+}
+
+/*
+ * Sitenin tek ışığı: köşelerden vuran marka kırmızısı ve lacivert. Ekrana
+ * sabitlenir, bölümler kendi zeminini çizmez; böylece ışık kaydırırken
+ * bölüm sınırlarında kesilmez. Sayfa başlıkları üstüne kendi renginde
+ * ikinci bir sabit ışık ekler.
+ */
+.sayfa-isigi {
+  position: fixed;
+  inset: 0;
+  z-index: -20;
+  pointer-events: none;
+  background:
+    radial-gradient(60rem 40rem at -10% -6%, rgb(226 70 45 / .2), transparent 62%),
+    radial-gradient(56rem 46rem at 110% 34%, rgb(42 72 160 / .26), transparent 62%),
+    radial-gradient(50rem 40rem at -12% 96%, rgb(42 72 160 / .16), transparent 62%),
+    radial-gradient(42rem 32rem at 106% 106%, rgb(226 70 45 / .1), transparent 62%);
+}
+
+/* Müşteri logoları gri ve soluk durur; renkli yüklenen logo da griye döner. */
+.logo-gri {
+  filter: grayscale(1);
+  opacity: 0.55;
+  transition: opacity 0.3s;
+}
+.logo-gri:hover {
+  opacity: 0.9;
+}
+
+/* Logolar koyu zeminde kendi renginde durur; koyu çizilmiş olanlar tonu korunarak açılır. */
+.logo-renkli {
+  opacity: 0.85;
+  transition: opacity 0.3s;
+}
+
+.logo-acik {
+  filter: invert(1) hue-rotate(180deg);
+  opacity: 0.85;
+  transition: opacity 0.3s;
+}
+
+.group:hover .logo-renkli,
+.group:hover .logo-acik {
+  opacity: 1;
+}
+
+/* Paneldeki ilerleme kaydırıcısı: dolu kısım vurgu renginde, kalan kısım koyu. */
+.kaydirici {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 8px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--color-vurgu), #ff8a3d) 0 / var(--dolu, 0%) 100% no-repeat, rgba(255, 255, 255, 0.08);
+  cursor: pointer;
+}
+.kaydirici::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background: #fff;
+  border: 3px solid var(--color-vurgu);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
+}
+.kaydirici::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 999px;
+  background: #fff;
+  border: 3px solid var(--color-vurgu);
+}

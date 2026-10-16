@@ -1,0 +1,36 @@
+{
+  "name": "kam",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --port=5190 --host=127.0.0.1",
+    "build": "tsc --noEmit && vite build && vite build --ssr src/sunucu.tsx --outDir dist-sunucu && node scripts/onisle.mjs",
+    "preview": "vite preview --port=5190",
+    "lint": "tsc --noEmit",
+    "api": "php -S 127.0.0.1:8091 -t . api/_yerel_sunucu.php"
+  },
+  "dependencies": {
+    "@splinetool/react-spline": "^4.1.0",
+    "@tabler/icons-react": "^3.47.0",
+    "d3-geo": "^3.1.1",
+    "lenis": "^1.1.20",
+    "motion": "^11.15.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.14",
+    "@types/d3-geo": "^3.1.1",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/topojson-client": "^3.1.5",
+    "@types/topojson-specification": "^1.0.5",
+    "@vitejs/plugin-react": "^5.0.4",
+    "tailwindcss": "^4.1.14",
+    "typescript": "~5.8.2",
+    "vite": "^6.3.5"
+  }
+}

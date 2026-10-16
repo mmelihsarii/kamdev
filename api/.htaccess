@@ -1,0 +1,8 @@
+# Veri klasörü web kökünde kalırsa dışarıdan erişilemesin.
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^veri(/|$) - [F,L]
+</IfModule>
+<FilesMatch "^_">
+  Require all denied
+</FilesMatch>

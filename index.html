@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#050506" />
+
+    <!-- Sayfa geçiş perdesi: JavaScript gelmeden ilk karede çizilir. Oturumdaki ilk girişte ve
+         KAM logosuna tıklanınca KAM yazılır, sayfa hazır olunca src/lib/yukleme.ts perdeyi kaldırır. -->
+    <style>
+      #yukleme { display: none; }
+      .yk-ilk #yukleme, .yk-gecis #yukleme {
+        display: grid; place-items: center; position: fixed; inset: 0; z-index: 9999; background: #050506;
+        animation: yk-guvenlik 0s linear 8s forwards;
+      }
+      .yk-giris #yukleme { animation: yk-gir 0.3s cubic-bezier(0.76, 0, 0.24, 1) both, yk-guvenlik 0s linear 8s forwards; }
+      .yk-imza { display: grid; justify-items: center; gap: 30px; }
+      .yk-imza svg { width: min(60vw, 280px); height: auto; overflow: visible; transform-origin: 0 0; }
+      .yk-imza path {
+        fill: #fff; fill-opacity: 0; stroke: #fff; stroke-width: 22; stroke-linejoin: round;
+        stroke-dasharray: 1; stroke-dashoffset: 1;
+        animation: yk-ciz 0.45s cubic-bezier(0.65, 0, 0.35, 1) calc(var(--g) - var(--gecen, 0s)) both,
+          yk-dol 0.28s ease-out calc(var(--g) + 0.32s - var(--gecen, 0s)) both;
+      }
+      .yk-cizgi { position: relative; width: min(60vw, 280px); height: 2px; overflow: hidden; background: rgba(255, 255, 255, 0.08); transition: opacity 0.3s; }
+      .yk-cizgi i, .yk-cizgi b { position: absolute; inset: 0; background: #e2462d; transform: scaleX(0); transform-origin: left; }
+      .yk-cizgi i { animation: yk-ilerle 0.9s cubic-bezier(0.2, 0.7, 0.2, 1) calc(0s - var(--gecen, 0s)) forwards; }
+      .yk-hazir .yk-cizgi b { animation: yk-doldur 0.1s ease-out forwards; }
+      /* Çıkış: yazı küçülüp menüdeki logonun yerine iner, perde arkasından silinir. */
+      .yk-bitti #yukleme { background-color: rgba(5, 5, 6, 0); pointer-events: none; transition: background-color 0.4s ease 0.08s; }
+      .yk-bitti .yk-cizgi { opacity: 0; }
+      .yk-bitti .yk-imza svg { transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1); }
+      .yk-logo a[aria-label="KAM ana sayfa"] span { opacity: 0; transition: none; }
+      /* Menüde logo bulunamazsa perde yukarı kalkar. */
+      .yk-bitti.yk-kalk #yukleme { background-color: #050506; transform: translateY(-100%); transition: transform 0.5s cubic-bezier(0.76, 0, 0.24, 1); }
+      @keyframes yk-ciz { 0% { stroke-dashoffset: 1; opacity: 0; } 1% { opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 1; } }
+      @keyframes yk-dol { to { fill-opacity: 1; } }
+      @keyframes yk-ilerle { to { transform: scaleX(0.82); } }
+      @keyframes yk-doldur { to { transform: scaleX(1); } }
+      @keyframes yk-gir { from { transform: translateY(100%); } }
+      @keyframes yk-guvenlik { to { visibility: hidden; } }
+      @media (prefers-reduced-motion: reduce) {
+        .yk-imza path { animation: none; stroke-dashoffset: 0; fill-opacity: 1; }
+        .yk-cizgi i, .yk-giris #yukleme { animation: none; }
+      }
+    </style>
+    <script>
+      (function () {
+        try {
+          var yol = location.pathname, kok = document.documentElement, oturum = sessionStorage;
+          if (/^\/(yonetim|musteri)(\/|$)|^\/demolar\/[^/]+\/panel\//.test(yol)) return;
+          var tik = Number(oturum.getItem("kam-gecis")) || 0, simdi = Date.now();
+          oturum.removeItem("kam-gecis");
+          if (tik && simdi - tik < 8000) {
+            kok.classList.add("yk-gecis");
+            kok.style.setProperty("--gecen", (simdi - tik) / 1000 + "s");
+            window.__ykBas = tik;
+          } else if (!oturum.getItem("kam-acildi")) {
+            kok.classList.add("yk-ilk");
+            window.__ykBas = simdi;
+          } else return;
+          oturum.setItem("kam-acildi", "1");
+          kok.classList.add("yk-logo");
+        } catch (e) {}
+      })();
+    </script>
+
+    <!--kafa-->
+
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300..900;1,400&display=swap" rel="stylesheet" />
+
+  </head>
+  <body>
+    <div id="yukleme" aria-hidden="true">
+      <div class="yk-imza">
+        <svg viewBox="0 -1456 4052 1456">
+          <path pathLength="1" style="--g: 0s" d="M430 -1456V-789L563 -971L934 -1456H1302L785 -812L1316 0H961L586 -588L430 -420V0H130V-1456Z" />
+          <path pathLength="1" style="--g: 0.12s" d="M2209 0 2108 -307H1584L1484 0H1165L1706 -1456H1985L2529 0ZM2031 -542 1846 -1104 1661 -542Z" />
+          <path pathLength="1" style="--g: 0.24s" d="M2520 -1456H2911L3285 -387L3659 -1456H4051V0H3751V-414L3781 -1089L3387 0H3183L2790 -1089L2819 -414V0H2520Z" />
+        </svg>
+        <span class="yk-cizgi"><i></i><b></b></span>
+      </div>
+    </div>
+    <div id="kok"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
